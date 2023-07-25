@@ -18,7 +18,7 @@ public class beginner extends AppCompatActivity {
         beg_bicep_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),biceps.class);
+                Intent i = new Intent(getApplicationContext(),beg_biceps.class);
                 startActivity(i);
             }
         });

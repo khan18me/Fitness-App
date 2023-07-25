@@ -17,4 +17,13 @@
     <string name="workout_2">Workout 2</string>
     <string name="workout_3">Workout 3</string>
     <string name="biceps_workout">Biceps Workout</string>
+
+
+
+    <string name ="beg_bic_w1"> 1) Warm-up: Begin with a brief warm-up to increase blood flow to your muscles and prevent injuries.You can do some light cardio, such as jogging or jumping jacks, for about 5 minutes.</string>
+    <string name ="beg_bic_w2"> 2) Standing Barbell or Dumbbell Curls: Stand with your feet shoulder–width apart, and hold a barbell or dumbbells with an underhand grip (palms facing upward). Curl the weight up towards your shoulders while keeping your elbows close to your body. Slowly lower the weight back down. Aim for 3 sets of 10–12 repetitions.</string>
+    <string name ="beg_bic_w3"> 3) Hammer Curls: Similar to standing curls, but this time, hold the dumbbells with a neutral grip (palms facing each other). Curl the weights up towards your shoulders, and then lower them back down. Perform 3 sets of 10–12 repetitions.</string>
+    <string name ="beg_bic_w4"> 4) Concentration Curls: Sit on a bench with your legs spread apart. Hold a dumbbell in one hand and place the back of your upper arm against your inner thigh. Curl the weight upward, focusing on contracting your biceps. Lower it back down. Do 3 sets of 10–12 repetitions per arm.</string>
+    <string name ="beg_bic_w5"> 5) Rest: Take a short rest (about 1–2 minutes) between each set to allow your muscles to recover.</string>
+    <string name ="beg_bic_w6"> 6) Cool Down: After completing the exercises, do some gentle stretching for your biceps and other major muscle groups involved in the workout.</string>
 </resources>

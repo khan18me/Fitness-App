@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".beg_biceps">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/bicep_header"
+        android:fontFamily="sans-serif"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="Biceps Workout"
+        android:textSize="20sp">
+    </TextView>
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:layout_below="@+id/bicep_header"
+        android:id="@+id/beg_bic_w1"
+        android:layout_height="175dp"
+        android:src="@drawable/pushup"/>
+
+    <ImageView
+        android:id="@+id/vi_bic_w1"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignEnd="@+id/beg_bic_w1"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/play_button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/beg_bic_w1"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="@string/beg_bic_w1">
+
+    </TextView>
+
+
+    <ImageView
+        android:id="@+id/vi_bic_w2"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_alignEnd="@+id/beg_bic_w2"
+        android:layout_marginTop="330dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/play_button" />
+
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/beg_bic_w2"
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:layout_below="@id/beg_bic_w1"
+        android:layout_marginTop="85dp"
+        android:src="@drawable/pushup" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/beg_bic_w2"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="@string/beg_bic_w2">
+
+    </TextView>
+
+    <ImageView
+        android:id="@+id/vi_bic_w3"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_alignEnd="@+id/beg_bic_w3"
+        android:layout_marginTop="640dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/play_button" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:id="@+id/beg_bic_w3"
+        android:layout_height="175dp"
+        android:layout_below="@id/beg_bic_w2"
+        android:layout_marginTop="130dp"
+        android:src="@drawable/pushup" />
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/beg_bic_w3"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="@string/beg_bic_w3">
+
+    </TextView>
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:id="@+id/beg_bic_w4"
+        android:layout_height="175dp"
+        android:layout_below="@id/beg_bic_w3"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/pushup" />
+
+    <ImageView
+        android:id="@+id/vi_bic_w4"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_alignEnd="@+id/beg_bic_w4"
+        android:layout_marginTop="900dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/play_button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/beg_bic_w4"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="@string/beg_bic_w4">
+
+    </TextView>
+    <ImageView
+        android:id="@+id/vi_bic_w5"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_alignEnd="@+id/beg_bic_w4"
+        android:layout_marginTop="1225dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/play_button" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:id="@+id/beg_bic_w5"
+        android:layout_height="175dp"
+        android:layout_below="@id/beg_bic_w4"
+        android:layout_marginTop="130dp"
+        android:src="@drawable/pushup" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/beg_bic_w5"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="@string/beg_bic_w5">
+
+    </TextView>
+
+    <ImageView
+        android:id="@+id/vi_bic_w6"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_alignEnd="@+id/beg_bic_w5"
+        android:layout_marginTop="1480dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/play_button" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:id="@+id/beg_bic_w6"
+        android:layout_height="175dp"
+        android:layout_below="@id/beg_bic_w5"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/pushup" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/beg_bic_w6"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:text="@string/beg_bic_w6"
+        android:layout_marginBottom="20dp">
+
+    </TextView>
+
+</RelativeLayout>
+
+    </LinearLayout>
+
+
+
+</ScrollView>

@@ -12,10 +12,13 @@
         android:theme="@style/Theme.FitnessApp"
         tools:targetApi="31">
         <activity
+            android:name=".diet"
+            android:exported="false" />
+        <activity
             android:name=".shop"
             android:exported="false" />
         <activity
-            android:name=".beg_bic_w1"
+            android:name=".beg_biceps"
             android:exported="false" />
         <activity
             android:name=".abs"
@@ -31,9 +34,6 @@
             android:exported="false" />
         <activity
             android:name=".triceps"
-            android:exported="false" />
-        <activity
-            android:name=".biceps"
             android:exported="false" />
         <activity
             android:name=".beginner"

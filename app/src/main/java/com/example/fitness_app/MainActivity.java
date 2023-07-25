@@ -33,6 +33,13 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
+        View diet = findViewById(R.id.diet);
+        diet.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, diet.class);
+                startActivity(intent);
+            }
+        });
     }
 }
