@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".weight_loss">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Diet for Weight Loss"
+            android:textAlignment="center"
+            android:paddingTop="10dp"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif">
+        </TextView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60dp"
+            android:orientation="vertical">
+            <ImageView
+                android:id="@+id/diet_wl1"
+                android:layout_width="wrap_content"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl1"
+                android:layout_marginStart="16dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl1"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl2"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl2"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl2"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl3"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl3"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl3"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl4"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl4"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl4"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl5"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl5"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl5"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl6"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl6"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl6"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl7"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl7"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl7"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl8"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl8"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl8"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl8"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl9"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl9"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl9"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl9"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl10"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl10"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl10"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl10"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl11"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl11"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl11"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl11"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp" />
+
+            <ImageView
+                android:id="@+id/diet_wl12"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_gravity="center"
+                android:src="@drawable/diet_wl12"
+                android:layout_marginTop="10dp" />
+            <TextView
+                android:id="@+id/tv_diet_wl12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="@string/diet_wl_wl12"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_marginStart="16dp"
+                android:layout_marginBottom="10dp"/>
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</ScrollView>

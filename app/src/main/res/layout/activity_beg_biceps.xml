@@ -30,7 +30,7 @@
         android:layout_below="@+id/bicep_header"
         android:id="@+id/beg_bic_w1"
         android:layout_height="175dp"
-        android:src="@drawable/pushup"/>
+        android:src="@drawable/warmup"/>
 
     <ImageView
         android:id="@+id/vi_bic_w1"
@@ -47,10 +47,16 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/beg_bic_w1"
-        android:textSize="15sp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/beg_bic_w1"
         android:textColor="@color/black"
-        android:textStyle="bold"
-        android:text="@string/beg_bic_w1">
+        android:textSize="15sp"
+        android:textStyle="bold">
 
     </TextView>
 
@@ -73,7 +79,7 @@
         android:layout_height="175dp"
         android:layout_below="@id/beg_bic_w1"
         android:layout_marginTop="85dp"
-        android:src="@drawable/pushup" />
+        android:src="@drawable/dumbell_curl" />
 
     <TextView
         android:layout_width="match_parent"
@@ -82,7 +88,9 @@
         android:textSize="15sp"
         android:textColor="@color/black"
         android:textStyle="bold"
-        android:text="@string/beg_bic_w2">
+        android:text="@string/beg_bic_w2"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
 
     </TextView>
 
@@ -103,7 +111,7 @@
         android:layout_height="175dp"
         android:layout_below="@id/beg_bic_w2"
         android:layout_marginTop="130dp"
-        android:src="@drawable/pushup" />
+        android:src="@drawable/hammer_curl" />
 
 
 
@@ -115,7 +123,9 @@
         android:textSize="15sp"
         android:textColor="@color/black"
         android:textStyle="bold"
-        android:text="@string/beg_bic_w3">
+        android:text="@string/beg_bic_w3"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
 
     </TextView>
 
@@ -125,7 +135,7 @@
         android:layout_height="175dp"
         android:layout_below="@id/beg_bic_w3"
         android:layout_marginTop="100dp"
-        android:src="@drawable/pushup" />
+        android:src="@drawable/concentration_curl" />
 
     <ImageView
         android:id="@+id/vi_bic_w4"
@@ -145,7 +155,9 @@
         android:textSize="15sp"
         android:textColor="@color/black"
         android:textStyle="bold"
-        android:text="@string/beg_bic_w4">
+        android:text="@string/beg_bic_w4"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
 
     </TextView>
     <ImageView
@@ -165,7 +177,7 @@
         android:layout_height="175dp"
         android:layout_below="@id/beg_bic_w4"
         android:layout_marginTop="130dp"
-        android:src="@drawable/pushup" />
+        android:src="@drawable/rest" />
 
     <TextView
         android:layout_width="match_parent"
@@ -174,7 +186,9 @@
         android:textSize="15sp"
         android:textColor="@color/black"
         android:textStyle="bold"
-        android:text="@string/beg_bic_w5">
+        android:text="@string/beg_bic_w5"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
 
     </TextView>
 
@@ -195,7 +209,7 @@
         android:layout_height="175dp"
         android:layout_below="@id/beg_bic_w5"
         android:layout_marginTop="80dp"
-        android:src="@drawable/pushup" />
+        android:src="@drawable/stretch" />
 
     <TextView
         android:layout_width="match_parent"
@@ -205,7 +219,9 @@
         android:textColor="@color/black"
         android:textStyle="bold"
         android:text="@string/beg_bic_w6"
-        android:layout_marginBottom="20dp">
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
 
     </TextView>
 

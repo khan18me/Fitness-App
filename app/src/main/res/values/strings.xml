@@ -19,11 +19,45 @@
     <string name="biceps_workout">Biceps Workout</string>
 
 
+    <string name="beg_bic_w1"> 1) Warm-up: Begin with a brief warm-up to increase blood flow to your muscles and prevent injuries.You can do some light cardio, such as jogging or jumping jacks, for about 5 minutes.</string>
+    <string name="beg_bic_w2"> 2) Standing Barbell or Dumbbell Curls: Stand with your feet shoulder–width apart, and hold a barbell or dumbbells with an underhand grip (palms facing upward). Curl the weight up towards your shoulders while keeping your elbows close to your body. Slowly lower the weight back down. Aim for 3 sets of 10–12 repetitions.</string>
+    <string name="beg_bic_w3"> 3) Hammer Curls: Similar to standing curls, but this time, hold the dumbbells with a neutral grip (palms facing each other). Curl the weights up towards your shoulders, and then lower them back down. Perform 3 sets of 10–12 repetitions.</string>
+    <string name="beg_bic_w4"> 4) Concentration Curls: Sit on a bench with your legs spread apart. Hold a dumbbell in one hand and place the back of your upper arm against your inner thigh. Curl the weight upward, focusing on contracting your biceps. Lower it back down. Do 3 sets of 10–12 repetitions per arm.</string>
+    <string name="beg_bic_w5"> 5) Rest: Take a short rest (about 1–2 minutes) between each set to allow your muscles to recover.</string>
+    <string name="beg_bic_w6"> 6) Cool Down: After completing the exercises, do some gentle stretching for your biceps and other major muscle groups involved in the workout.</string>
 
-    <string name ="beg_bic_w1"> 1) Warm-up: Begin with a brief warm-up to increase blood flow to your muscles and prevent injuries.You can do some light cardio, such as jogging or jumping jacks, for about 5 minutes.</string>
-    <string name ="beg_bic_w2"> 2) Standing Barbell or Dumbbell Curls: Stand with your feet shoulder–width apart, and hold a barbell or dumbbells with an underhand grip (palms facing upward). Curl the weight up towards your shoulders while keeping your elbows close to your body. Slowly lower the weight back down. Aim for 3 sets of 10–12 repetitions.</string>
-    <string name ="beg_bic_w3"> 3) Hammer Curls: Similar to standing curls, but this time, hold the dumbbells with a neutral grip (palms facing each other). Curl the weights up towards your shoulders, and then lower them back down. Perform 3 sets of 10–12 repetitions.</string>
-    <string name ="beg_bic_w4"> 4) Concentration Curls: Sit on a bench with your legs spread apart. Hold a dumbbell in one hand and place the back of your upper arm against your inner thigh. Curl the weight upward, focusing on contracting your biceps. Lower it back down. Do 3 sets of 10–12 repetitions per arm.</string>
-    <string name ="beg_bic_w5"> 5) Rest: Take a short rest (about 1–2 minutes) between each set to allow your muscles to recover.</string>
-    <string name ="beg_bic_w6"> 6) Cool Down: After completing the exercises, do some gentle stretching for your biceps and other major muscle groups involved in the workout.</string>
+
+    <string name="diet_wg_wg1">1) Caloric Surplus: To gain weight, you need to consume more calories than your body burns. Calculate your daily caloric needs using an online calculator and aim to consume around 300-500 calories above that number.</string>
+    <string name="diet_wg_wg2">2) Macronutrients Balance:
+        Proteins: They are essential for muscle repair and growth. Aim for about 1.2 to 1.5 grams of protein per pound of body weight. Good sources include chicken, turkey, lean beef, fish, eggs, dairy, legumes, and tofu.
+        Carbohydrates: These provide energy for workouts and daily activities. Choose complex carbohydrates like whole grains, brown rice, quinoa, sweet potatoes, oats, and fruits.
+        Fats: Healthy fats are calorie-dense and beneficial for overall health. Incorporate sources like avocados, nuts, seeds, olive oil, and fatty fish.</string>
+    <string name="diet_wg_wg3">3) Regular Meals and Snacks: Aim to eat 3 main meals and 2-3 snacks between them throughout the day. This helps increase calorie intake.</string>
+    <string name="diet_wg_wg4">4) Protein-rich Breakfast: Start your day with a protein-rich breakfast. It could be eggs, Greek yogurt with nuts and fruits, or a protein smoothie.</string>
+    <string name="diet_wg_wg5">5) Frequent Protein Snacks: Have protein-rich snacks such as nuts, Greek yogurt, cottage cheese, protein bars, or a protein shake between meals.</string>
+    <string name="diet_wg_wg6">6) Healthy Fats: Include sources of healthy fats in your meals, like avocados, nuts, seeds, and olive oil.</string>
+    <string name="diet_wg_wg7">7) Weight-Gaining Smoothies: Blend together fruits, Greek yogurt, milk, protein powder, and nut butter for a calorie-dense and nutritious smoothie.</string>
+    <string name="diet_wg_wg8">8) Starchy Vegetables: Include starchy vegetables like sweet potatoes, peas, corn, and squash in your meals.</string>
+    <string name="diet_wg_wg9">9) Strength Training: Combine your diet plan with a proper strength training routine to stimulate muscle growth.</string>
+    <string name="diet_wg_wg10">10) Hydration: Stay hydrated throughout the day. Water is crucial for various bodily functions.</string>
+    <string name="diet_wg_wg11">11) Avoid Empty Calories: While it\'s essential to increase calorie intake, avoid relying on sugary and processed foods with empty calories. Focus on nutrient-rich choices.</string>
+    <string name="diet_wg_wg12">12) Rest and Recovery: Ensure you get enough sleep and rest to support muscle recovery and overall well-being.</string>
+
+
+    <string name="diet_wl_wl1">1) Calculate Caloric Needs: Use an online calculator to estimate your daily caloric needs. Then, create a calorie deficit by consuming 300-500 calories less than your daily requirement.</string>
+    <string name="diet_wl_wl2">2) Portion Control: Pay attention to portion sizes to avoid overeating. Use smaller plates and bowls to help with portion control.</string>
+    <string name="diet_wl_wl3">3) Balanced Macronutrients:
+Proteins: Include lean protein sources like chicken, turkey, fish, tofu, beans, and legumes. Protein helps you feel full and preserves muscle mass during weight loss.
+Complex Carbohydrates: Opt for whole grains, brown rice, quinoa, oats, fruits, and vegetables. These provide sustained energy and fiber, which aids digestion.
+Healthy Fats: Incorporate sources like avocados, nuts, seeds, olive oil, and fatty fish. Healthy fats are essential for various bodily functions.</string>
+    <string name="diet_wl_wl4">4) Vegetables and Fruits: Load up on non-starchy vegetables and fruits, which are low in calories and high in nutrients. They also provide essential vitamins, minerals, and antioxidants.</string>
+    <string name="diet_wl_wl5">5) Limit Added Sugars and Processed Foods: Minimize sugary beverages, candies, pastries, and processed snacks, as they are calorie-dense but nutrient-poor.</string>
+    <string name="diet_wl_wl6">6) Regular Meals and Snacks: Don\'t skip meals and aim for 3 main meals and 1-2 healthy snacks per day. Eating regularly helps maintain stable blood sugar levels and prevents overeating.</string>
+    <string name="diet_wl_wl7">7) Hydration: Drink plenty of water throughout the day. Sometimes, thirst can be mistaken for hunger.</string>
+    <string name="diet_wl_wl8">8) Mindful Eating: Pay attention to your hunger and fullness cues. Avoid distractions while eating and savor your meals.</string>
+    <string name="diet_wl_wl9">9) Limit Liquid Calories: Be cautious with high-calorie beverages like sodas, sugary juices, and alcoholic drinks. Opt for water, herbal teas, or flavored water with no added sugars.</string>
+    <string name="diet_wl_wl10">10) Cook at Home: Preparing meals at home allows you to control ingredients and portion sizes better.</string>
+    <string name="diet_wl_wl11">11) Stay Active: Regular physical activity is crucial for weight loss. Incorporate both cardiovascular exercises and strength training into your routine.</string>
+    <string name="diet_wl_wl12">12) Monitor Progress: Keep track of your food intake and exercise to stay accountable and make adjustments as needed.</string>
+
 </resources>

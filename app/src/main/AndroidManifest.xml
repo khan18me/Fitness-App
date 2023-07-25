@@ -12,6 +12,15 @@
         android:theme="@style/Theme.FitnessApp"
         tools:targetApi="31">
         <activity
+            android:name=".prepathome"
+            android:exported="false" />
+        <activity
+            android:name=".weight_loss"
+            android:exported="false" />
+        <activity
+            android:name=".weight_gain"
+            android:exported="false" />
+        <activity
             android:name=".diet"
             android:exported="false" />
         <activity
