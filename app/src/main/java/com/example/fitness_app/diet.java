@@ -35,5 +35,15 @@ public class diet extends AppCompatActivity {
 
             }
         });
+
+        final Button prep_home_btn = (Button) findViewById(R.id.prep_home_btn);
+        prep_home_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(getApplicationContext(), prepathome.class);
+                startActivity(i);
+
+            }
+        });
     }
 }
