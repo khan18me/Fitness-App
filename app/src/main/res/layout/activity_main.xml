@@ -247,11 +247,12 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/light_black">
+                    android:background="@color/light_black"
+                    android:id="@+id/reminder">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:id="@+id/reminder"
+                        android:id="@+id/reminder1"
                         android:text="Reminder"
                         android:textSize="20sp"
                         android:textColor="@color/lavender"
