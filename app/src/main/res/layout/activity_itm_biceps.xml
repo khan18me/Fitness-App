@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context=".beg_abs">
+    tools:context=".itm_biceps">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -19,26 +19,26 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:id="@+id/abs_header"
+                android:id="@+id/bicepep_header"
                 android:fontFamily="@font/dark_distance"
                 android:textColor="@color/black"
                 android:gravity="center"
                 android:textStyle="bold"
-                android:text="ABS Workout"
+                android:text="bicepeps Workout"
                 android:textSize="20sp">
             </TextView>
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:layout_below="@+id/abs_header"
-                android:id="@+id/beg_abs_w1"
+                android:layout_below="@+id/bicepep_header"
+                android:id="@+id/itm_bicep_w1"
                 android:layout_height="175dp"
                 android:src="@drawable/warmup"/>
 
             <ImageView
-                android:id="@+id/vi_abs_w1"
+                android:id="@+id/vi_bicep_w1"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
-                android:layout_alignEnd="@+id/beg_abs_w1"
+                android:layout_alignEnd="@+id/itm_bicep_w1"
                 android:layout_marginStart="50dp"
                 android:layout_marginTop="50dp"
                 android:layout_marginEnd="18dp"
@@ -48,14 +48,14 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_abs_w1"
+                android:layout_below="@+id/itm_bicep_w1"
                 android:layout_marginStart="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginEnd="10dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginBottom="10dp"
-                android:text="@string/beg_abs_w1"
+                android:text="@string/itm_bicep_w1"
                 android:textColor="@color/black"
                 android:textSize="15sp"
                 android:textStyle="bold">
@@ -64,54 +64,54 @@
 
 
             <ImageView
-                android:id="@+id/vi_abs_w2"
+                android:id="@+id/vi_bicep_w2"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_abs_w2"
-                android:layout_marginTop="380dp"
+                android:layout_alignEnd="@+id/itm_bicep_w2"
+                android:layout_marginTop="330dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
 
             <pl.droidsonroids.gif.GifImageView
-                android:id="@+id/beg_abs_w2"
+                android:id="@+id/itm_bicep_w2"
                 android:layout_width="match_parent"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_abs_w1"
-                android:layout_marginTop="150dp"
+                android:layout_below="@id/itm_bicep_w1"
+                android:layout_marginTop="85dp"
                 android:src="@drawable/dumbell_curl" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_abs_w2"
+                android:layout_below="@+id/itm_bicep_w2"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:text="@string/beg_abs_w2"
+                android:text="@string/itm_bicep_w2"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
 
             <ImageView
-                android:id="@+id/vi_abs_w3"
+                android:id="@+id/vi_bicep_w3"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_abs_w3"
-                android:layout_marginTop="690dp"
+                android:layout_alignEnd="@+id/itm_bicep_w3"
+                android:layout_marginTop="640dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:id="@+id/beg_abs_w3"
+                android:id="@+id/itm_bicep_w3"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_abs_w2"
+                android:layout_below="@id/itm_bicep_w2"
                 android:layout_marginTop="130dp"
                 android:src="@drawable/hammer_curl" />
 
@@ -121,11 +121,11 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_abs_w3"
+                android:layout_below="@+id/itm_bicep_w3"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:text="@string/beg_abs_w3"
+                android:text="@string/itm_bicep_w3"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp">
 
@@ -133,19 +133,19 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:id="@+id/beg_abs_w4"
+                android:id="@+id/itm_bicep_w4"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_abs_w3"
-                android:layout_marginTop="120dp"
+                android:layout_below="@id/itm_bicep_w3"
+                android:layout_marginTop="100dp"
                 android:src="@drawable/concentration_curl" />
 
             <ImageView
-                android:id="@+id/vi_abs_w4"
+                android:id="@+id/vi_bicep_w4"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_abs_w4"
-                android:layout_marginTop="980dp"
+                android:layout_alignEnd="@+id/itm_bicep_w4"
+                android:layout_marginTop="900dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -153,113 +153,79 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_abs_w4"
+                android:layout_below="@+id/itm_bicep_w4"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:text="@string/beg_abs_w4"
+                android:text="@string/itm_bicep_w4"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
             <ImageView
-                android:id="@+id/vi_abs_w5"
+                android:id="@+id/vi_bicep_w5"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_abs_w4"
-                android:layout_marginTop="1295dp"
+                android:layout_alignEnd="@+id/itm_bicep_w4"
+                android:layout_marginTop="1225dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:id="@+id/beg_abs_w5"
+                android:id="@+id/itm_bicep_w5"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_abs_w4"
+                android:layout_below="@id/itm_bicep_w4"
                 android:layout_marginTop="130dp"
                 android:src="@drawable/rest" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_abs_w5"
+                android:layout_below="@+id/itm_bicep_w5"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:text="@string/beg_abs_w5"
-
+                android:text="@string/itm_bicep_w5"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
 
             <ImageView
-                android:id="@+id/vi_abs_w6"
+                android:id="@+id/vi_bicep_w6"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_abs_w5"
-                android:layout_marginTop="1620dp"
+                android:layout_alignEnd="@+id/itm_bicep_w5"
+                android:layout_marginTop="1480dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:id="@+id/beg_abs_w6"
+                android:id="@+id/itm_bicep_w6"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_abs_w5"
-                android:layout_marginTop="150dp"
-                android:src="@drawable/rest" />
+                android:layout_below="@id/itm_bicep_w5"
+                android:layout_marginTop="80dp"
+                android:src="@drawable/stretch" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_abs_w6"
+                android:layout_below="@+id/itm_bicep_w6"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:text="@string/beg_abs_w6"
-                android:paddingBottom="15dp"
+                android:text="@string/itm_bicep_w6"
+                android:layout_marginBottom="20dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
-            <ImageView
-                android:id="@+id/vi_abs_w7"
-                android:layout_width="30dp"
-                android:layout_height="30dp"
-                android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_abs_w6"
-                android:layout_marginTop="1620dp"
-                android:layout_marginEnd="18dp"
-                android:layout_marginBottom="50dp"
-                android:src="@drawable/play_button" />
-
-            <pl.droidsonroids.gif.GifImageView
-                android:layout_width="match_parent"
-                android:id="@+id/beg_abs_w7"
-                android:layout_height="175dp"
-                android:layout_below="@id/beg_abs_w6"
-                android:layout_marginTop="150dp"
-                android:src="@drawable/rest" />
-
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:layout_below="@+id/beg_abs_w7"
-                android:textSize="15sp"
-                android:textColor="@color/black"
-                android:textStyle="bold"
-                android:text="@string/beg_abs_w6"
-                android:paddingBottom="15dp"
-                android:layout_marginLeft="10dp"
-                android:layout_marginRight="10dp">
-
-            </TextView>
-
 
         </RelativeLayout>
 
