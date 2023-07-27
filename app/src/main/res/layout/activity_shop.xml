@@ -19,11 +19,11 @@
             android:id="@+id/logoName"
             android:text="Fitness Freak"
             android:textSize="28sp"
-            android:textColor="@color/lava_red"
+            android:textColor="@color/black"
             android:textStyle="bold"
             android:layout_marginStart="18dp"
             android:layout_marginTop="40dp"
-            android:fontFamily="sans-serif"
+            android:fontFamily="@font/dark_distance"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/logoImage"/>
@@ -36,7 +36,7 @@
             android:textStyle="bold"
             android:textSize="14sp"
             android:layout_marginStart="28dp"
-            android:textColor="@color/lava_red"
+            android:textColor="@color/black"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/logoName"
             app:layout_constraintEnd_toStartOf="@+id/logoImage"/>

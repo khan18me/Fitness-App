@@ -26,7 +26,7 @@ public class beginner extends AppCompatActivity {
         beg_tri_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),triceps.class);
+                Intent i = new Intent(getApplicationContext(),beg_triceps.class);
                 startActivity(i);
 
 
@@ -36,7 +36,7 @@ public class beginner extends AppCompatActivity {
         beg_chest_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),chest.class);
+                Intent i = new Intent(getApplicationContext(),beg_chest.class);
                 startActivity(i);
 
 
@@ -46,7 +46,7 @@ public class beginner extends AppCompatActivity {
         beg_back_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),back.class);
+                Intent i = new Intent(getApplicationContext(),beg_back.class);
                 startActivity(i);
 
 
@@ -56,7 +56,7 @@ public class beginner extends AppCompatActivity {
         beg_shldr_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),shoulder.class);
+                Intent i = new Intent(getApplicationContext(),beg_shoulder.class);
                 startActivity(i);
 
 
@@ -66,7 +66,17 @@ public class beginner extends AppCompatActivity {
         beg_abs_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),abs.class);
+                Intent i = new Intent(getApplicationContext(),beg_abs.class);
+                startActivity(i);
+
+
+            }
+        });
+        final Button beg_legs_btn = (Button) findViewById(R.id.beg_legs_btn);
+        beg_legs_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(getApplicationContext(),beg_legs.class);
                 startActivity(i);
 
 

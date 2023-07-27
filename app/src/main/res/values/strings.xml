@@ -27,6 +27,169 @@
     <string name="beg_bic_w6"> 6) Cool Down: After completing the exercises, do some gentle stretching for your biceps and other major muscle groups involved in the workout.</string>
 
 
+    <string name="beg_chest_w1">1) Push-ups: 3 sets of 8-10 reps
+->Start with your hands slightly wider than shoulder-width apart.
+->Lower your body until your chest almost touches the ground.
+->Push back up to the starting position.</string>
+    <string name="beg_chest_w2">2) Dumbbell Bench Press: 3 sets of 8-10 reps
+->Lie flat on a bench with a dumbbell in each hand, palms facing forward.
+->Lower the dumbbells to the sides of your chest, keeping your elbows at 90 degrees.
+->Push the dumbbells back up to the starting position.</string>
+    <string name="beg_chest_w3">3) Dumbbell Flyes: 3 sets of 10-12 reps
+->Lie flat on a bench with a dumbbell in each hand, palms facing each other.
+->Lower the dumbbells out to your sides in a wide arc, feeling a stretch in your chest.
+->Bring the dumbbells back up, squeezing your chest muscles.</string>
+    <string name="beg_chest_w4">4) Incline Push-ups: 3 sets of 8-10 reps
+->Find an elevated surface (e.g., a bench or sturdy chair) and place your hands on it.
+->Position yourself at an incline angle and perform push-ups.
+->Lower your body and push back up.</string>
+    <string name="beg_chest_w5">5) Chest Stretch: Hold for 20-30 seconds
+->Stand tall and clasp your hands behind your back.
+->Straighten your arms and lift them slightly, feeling a stretch in your chest.</string>
+
+
+    <string name="beg_shoulder_w1">1) Shoulder Press (Dumbbell or Barbell): 3 sets of 8-10 reps
+->Sit or stand with your back straight and core engaged.
+->Hold a dumbbell in each hand at shoulder level or use a barbell resting on your shoulders.
+->Press the weights upward until your arms are fully extended overhead.
+->Lower the weights back down to shoulder level.</string>
+    <string name="beg_shoulder_w2">2) Front Raises: 3 sets of 10-12 reps
+->Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
+->Keeping your arms straight, raise the dumbbells to shoulder level, one at a time.
+->Slowly lower the weights back to the starting position.</string>
+    <string name="beg_shoulder_w3">3) Lateral Raises: 3 sets of 10-12 reps
+->Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
+->Keeping a slight bend in your elbows, raise the dumbbells to the sides until they reach shoulder height.
+->Lower the weights back down to your sides.</string>
+    <string name="beg_shoulder_w4">4) Bent-Over Raises (Rear Deltoid Raises): 3 sets of 10-12 reps
+->Bend forward at the hips, keeping your back flat and knees slightly bent.
+->Hold a dumbbell in each hand, palms facing inwards towards your body.
+->Raise the dumbbells out to the sides until your arms are parallel to the ground.
+->Lower the weights back down with control.</string>
+    <string name="beg_shoulder_w5">5) Arnold Press: 3 sets of 8-10 reps
+->Start with dumbbells at shoulder height, palms facing your body.
+->As you press the dumbbells upward, rotate your palms to face forward.
+->At the top of the movement, your arms should be fully extended and palms facing away from you.
+->Reverse the motion and bring the dumbbells back to the starting position, rotating your palms back to the initial position.</string>
+    <string name="beg_shoulder_w6">6) Shoulder Stretch: Hold for 20-30 seconds on each arm
+->Extend one arm across your chest.
+->With your other hand, gently pull the extended arm closer to your body, feeling a stretch in your shoulder.</string>
+
+
+    <string name="beg_tricep_w1">1) Tricep Dips (Assisted if needed): 3 sets of 8-10 reps
+->Find parallel bars or use the edge of a sturdy chair/bench.
+->Lower your body by bending your elbows until they reach a 90-degree angle.
+->Push back up to the starting position.</string>
+    <string name="beg_tricep_w2">2) Dumbbell Tricep Extensions (Skull Crushers): 3 sets of 10-12 reps
+->Lie flat on a bench with a dumbbell in each hand, arms extended straight up.
+->Bend your elbows to lower the dumbbells towards your forehead (carefully).
+->Extend your arms back up to the starting position.
+</string>
+    <string name="beg_tricep_w3">3) Tricep Pushdowns (with resistance band or cable machine): 3 sets of 12-15 reps
+->Attach a resistance band or use a cable machine with a rope attachment.
+->Stand with your feet shoulder-width apart, and elbows at 90 degrees.
+->Push the rope or band down, fully extending your arms.
+->Slowly return to the starting position.</string>
+    <string name="beg_tricep_w4">4) Overhead Dumbbell Extensions: 3 sets of 10-12 reps
+->Stand or sit on a bench with a dumbbell in both hands.
+->Raise the dumbbell overhead, keeping your upper arms close to your ears.
+->Lower the dumbbell behind your head by bending your elbows.
+->Extend your arms back up to the starting position.</string>
+    <string name="beg_tricep_w5">5) Tricep Stretch: Hold for 20-30 seconds on each arm
+->Extend one arm overhead and bend at the elbow, reaching down your back.
+->With your other hand, gently push on the bent elbow to deepen the stretch.</string>
+
+
+    <string name="beg_back_w1">1) Bodyweight Rows (or Inverted Rows): 3 sets of 8-10 reps
+->Find a sturdy horizontal bar or use a Smith machine at waist height.
+->Lie down underneath the bar and grasp it with an overhand grip.
+->Keep your body in a straight line and pull your chest up towards the bar.
+->Lower your body back down to the starting position.</string>
+    <string name="beg_back_w2">2) Lat Pulldowns: 3 sets of 10-12 reps
+->Sit at a lat pulldown machine with your knees positioned under the pads.
+->Grab the bar with a wide overhand grip, hands slightly wider than shoulder-width apart.
+->Pull the bar down to your chest while squeezing your shoulder blades together.
+->Slowly release the bar back up to the starting position.</string>
+    <string name="beg_back_w3">3) Dumbbell Rows: 3 sets of 10-12 reps per arm
+->Place one knee and the same-side hand on a bench, keeping your back parallel to the ground.
+->Hold a dumbbell in the other hand with your arm extended towards the ground.
+->Pull the dumbbell up towards your torso, squeezing your back muscles.
+->Lower the dumbbell back down and repeat on the other side.</string>
+    <string name="beg_back_w4">4) Superman (Back Extensions): 3 sets of 12-15 reps
+->Lie face down on the ground with your arms extended in front of you.
+->Lift your arms, chest, and legs off the ground simultaneously, engaging your lower back.
+->Hold the top position for a moment, then lower back down.</string>
+    <string name="beg_back_w5">5) Deadlifts (Romanian or Trap Bar): 3 sets of 8-10 reps
+->Stand with your feet shoulder-width apart, holding a barbell with an overhand grip.
+->Hinge at your hips and lower the barbell towards the ground, keeping your back flat.
+->Push through your heels and bring your torso back to an upright position.</string>
+    <string name="beg_back_w6">6) Back Stretch: Hold for 20-30 seconds
+->Sit on the ground with your legs extended in front of you.
+->Reach forward with your arms, trying to touch your toes, and feel a stretch in your back.</string>
+
+
+    <string name="beg_abs_w1">1) Crunches: 3 sets of 15-20 reps
+->Lie on your back with your knees bent and feet flat on the floor.
+->Place your hands behind your head, but avoid pulling on your neck.
+->Engage your core and lift your shoulders off the ground, curling towards your knees.
+->Lower your upper back back down with control.</string>
+    <string name="beg_abs_w2">2) Leg Raises: 3 sets of 10-12 reps
+->Lie flat on your back with your legs straight.
+->Keep your hands by your sides or under your glutes for support.
+->Engage your core and lift your legs off the ground until they form a 90-degree angle with your torso.
+->Lower your legs back down slowly without touching the ground.</string>
+    <string name="beg_abs_w3">3) Bicycle Crunches: 3 sets of 20-30 reps (10-15 each side)
+->Lie on your back and place your hands behind your head.
+->Lift your shoulders off the ground, bringing your right elbow towards your left knee while extending your right leg straight.
+->Alternate sides by bringing your left elbow towards your right knee while extending your left leg straight.
+->Continue alternating in a "bicycling" motion.</string>
+    <string name="beg_abs_w4">4) Plank: 3 sets, hold for 30 seconds to 1 minute each
+->Get into a push-up position with your hands directly under your shoulders.
+->Keep your body in a straight line from head to heels, engaging your core.
+->Hold the position, focusing on maintaining a stable and flat back.</string>
+    <string name="beg_abs_w5">5) Russian Twists: 3 sets of 20-30 reps (10-15 each side)
+->Sit on the ground with your knees bent and feet flat on the floor.
+->Lean back slightly while keeping your back straight and core engaged.
+->Hold your hands together and twist your torso to the right, then to the left, tapping the ground beside you.</string>
+    <string name="beg_abs_w6">6) Reverse Crunches: 3 sets of 12-15 reps
+->Lie on your back with your knees bent and feet off the ground.
+->Place your hands on the floor beside you or under your glutes for support.
+->Use your lower abs to lift your hips off the ground, curling them towards your chest.
+->Lower your hips back down slowly without touching the ground.</string>
+
+
+    <string name="beg_legs_w1">1) Bodyweight Squats: 3 sets of 12-15 reps
+->Stand with your feet shoulder-width apart and toes slightly turned out.
+->Lower your body by bending at the hips and knees, as if sitting back into a chair.
+->Keep your chest up and your knees in line with your toes.
+->Push through your heels to return to the starting position.</string>
+    <string name="beg_legs_w2">2) Lunges: 3 sets of 10-12 reps per leg
+->Stand with your feet together.
+->Take a step forward with one foot and lower your body until both knees are at 90-degree angles.
+->Push through your front heel to return to the starting position.
+->Alternate legs for each repetition.</string>
+    <string name="beg_legs_w3">3) Glute Bridges: 3 sets of 12-15 reps
+->Lie on your back with your knees bent and feet flat on the floor, hip-width apart.
+->Engage your core and push through your heels to lift your hips off the ground.
+->Squeeze your glutes at the top of the movement, then lower your hips back down.</string>
+    <string name="beg_legs_w4">4) Standing Calf Raises: 3 sets of 15-20 reps
+
+->Stand with your feet flat on the ground and hands on a wall or stable surface for support.
+->Rise up onto the balls of your feet, lifting your heels as high as possible.
+->Lower your heels back down to the starting position.</string>
+    <string name="beg_legs_w5">5) Step-ups: 3 sets of 10-12 reps per leg
+->Find a stable step or elevated surface.
+->Step one foot onto the step, pushing through your heel, and bring your other foot up.
+->Step back down with the same foot, then alternate to the other leg.</string>
+    <string name="beg_legs_w6">6) Wall Sits: 3 sets, hold for 30 seconds to 1 minute each
+->Stand with your back against a wall and slide down until your knees are at a 90-degree angle.
+->Keep your back against the wall and hold the position, engaging your quads and core.</string>
+    <string name="beg_legs_w7">7) Seated Leg Curls (Machine or Resistance Band): 3 sets of 10-12 reps
+->Sit on a leg curl machine or the edge of a bench with a resistance band wrapped around your ankles.
+->Curl your legs towards your glutes, engaging your hamstrings.
+->Slowly lower your legs back to the starting position.</string>
+
+
     <string name="diet_wg_wg1">1) Caloric Surplus: To gain weight, you need to consume more calories than your body burns. Calculate your daily caloric needs using an online calculator and aim to consume around 300-500 calories above that number.</string>
     <string name="diet_wg_wg2">2) Macronutrients Balance:
         Proteins: They are essential for muscle repair and growth. Aim for about 1.2 to 1.5 grams of protein per pound of body weight. Good sources include chicken, turkey, lean beef, fish, eggs, dairy, legumes, and tofu.
@@ -59,5 +222,6 @@ Healthy Fats: Incorporate sources like avocados, nuts, seeds, olive oil, and fat
     <string name="diet_wl_wl10">10) Cook at Home: Preparing meals at home allows you to control ingredients and portion sizes better.</string>
     <string name="diet_wl_wl11">11) Stay Active: Regular physical activity is crucial for weight loss. Incorporate both cardiovascular exercises and strength training into your routine.</string>
     <string name="diet_wl_wl12">12) Monitor Progress: Keep track of your food intake and exercise to stay accountable and make adjustments as needed.</string>
+    <string name="legs">Legs</string>
 
 </resources>

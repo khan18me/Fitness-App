@@ -15,6 +15,24 @@
         android:theme="@style/Theme.FitnessApp"
         tools:targetApi="31">
         <activity
+            android:name=".beg_legs"
+            android:exported="false" />
+        <activity
+            android:name=".beg_abs"
+            android:exported="false" />
+        <activity
+            android:name=".beg_back"
+            android:exported="false" />
+        <activity
+            android:name=".beg_shoulder"
+            android:exported="false" />
+        <activity
+            android:name=".beg_chest"
+            android:exported="false" />
+        <activity
+            android:name=".beg_triceps"
+            android:exported="false" />
+        <activity
             android:name=".NotificationActivity"
             android:exported="false" />
         <activity
