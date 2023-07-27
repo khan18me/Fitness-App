@@ -17,6 +17,8 @@ public class shop extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_shop);
 
+
+
         View equipment = findViewById(R.id.equipment);
         equipment.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/light_black"
+    android:background="@drawable/app_bg1"
     tools:context=".beginner">
 
     <LinearLayout
@@ -20,7 +20,9 @@
             android:text = "@string/beginner"
             android:textSize = "30sp"
             android:fontFamily="sans-serif"
-            android:textColor="@color/white"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginStart="10dp"
             android:orientation = "vertical">
         </TextView>
 

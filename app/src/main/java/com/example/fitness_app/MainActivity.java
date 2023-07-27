@@ -17,31 +17,37 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        exercise = findViewById(R.id.exercise);
-        exercise.setOnClickListener(new View.OnClickListener() {
+
+        RelativeLayout relativeLayout1 = findViewById(R.id.exercise);
+        relativeLayout1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, levels.class);
                 startActivity(intent);
+
             }
         });
 
-        View shop = findViewById(R.id.shop);
-        shop.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout relativeLayout2 = findViewById(R.id.shop);
+        relativeLayout2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, shop.class);
                 startActivity(intent);
+
             }
         });
-        View diet = findViewById(R.id.diet);
-        diet.setOnClickListener(new View.OnClickListener() {
+
+        RelativeLayout relativeLayout3 = findViewById(R.id.diet);
+        relativeLayout3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, diet.class);
                 startActivity(intent);
+
             }
         });
+
         RelativeLayout relativeLayout = findViewById(R.id.reminder);
         relativeLayout.setOnClickListener(new View.OnClickListener() {
             @Override

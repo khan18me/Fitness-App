@@ -45,15 +45,6 @@ public class levels extends AppCompatActivity {
 
             }
         });
-        final Button exp_btn = (Button) findViewById(R.id.exp_btn);
-        exp_btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),MainActivity.class);
-                startActivity(i);
 
-
-            }
-        });
     }
 }

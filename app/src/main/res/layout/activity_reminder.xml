@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center_vertical"
-    android:background="@drawable/alarm"
+    android:background="@drawable/starbg"
     tools:context=".reminder">
 
     <TextView
@@ -16,7 +16,7 @@
         android:layout_marginTop="200dp"
         android:text="00 : 00 AM"
         android:textAlignment="center"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="46dp"/>
 
 

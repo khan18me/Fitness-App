@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
+    android:background="@drawable/app_bg1"
     tools:context=".MainActivity">
 
     <androidx.constraintlayout.widget.ConstraintLayout
@@ -13,15 +13,16 @@
         android:id="@+id/constraintLayout"
         android:layout_marginTop="20dp">
         <TextView
-            android:layout_width="0dp"
-            android:layout_height="42dp"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
             android:id="@+id/logoName"
             android:text="Fitness Freak"
             android:textSize="30sp"
-            android:textColor="@color/lavender"
-            android:layout_marginStart="18dp"
+            android:textColor="@color/lava_red"
+            android:layout_marginStart="28dp"
             android:layout_marginTop="40dp"
             android:fontFamily="sans-serif"
+            android:textStyle="bold"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/logoImage"/>
@@ -32,22 +33,23 @@
             android:layout_marginTop="5dp"
             android:text="No Pain,No Gain"
             android:textSize="14sp"
-            android:layout_marginStart="18dp"
-            android:textColor="@color/lavender"
+            android:layout_marginStart="28dp"
+            android:textColor="@color/lava_red"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/logoName"
             app:layout_constraintEnd_toStartOf="@+id/logoImage"/>
         <ImageView
-            android:layout_width="0dp"
+            android:layout_width="160dp"
             android:layout_height="160dp"
             android:id="@+id/logoImage"
-            android:src="@drawable/chest"
+            android:src="@drawable/sidelogo"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             android:layout_marginEnd="16dp"
             app:layout_constraintStart_toEndOf="@id/logoName"/>
         <LinearLayout
-            android:layout_width="0dp"
+            android:layout_width="match_parent"
             android:layout_height="175dp"
             android:id="@+id/row1"
             android:orientation="horizontal"
@@ -60,7 +62,6 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:id="@+id/exercise"
                 android:layout_margin="10dp"
                 android:layout_weight="1"
                 app:cardElevation="20dp"
@@ -68,14 +69,15 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/light_black">
+                    android:background="@drawable/app_bg1"
+                    android:id="@+id/exercise">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:id="@+id/exerciseName"
+                        android:id="@+id/tv_exercise"
                         android:text="Weight"
                         android:textSize="20sp"
-                        android:textColor="@color/lavender"
+                        android:textColor="@color/white"
                         android:fontFamily="sans-serif"
                         android:layout_marginTop="10dp"
                         android:layout_centerHorizontal="true"
@@ -99,14 +101,15 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/light_black">
+                    android:background="@drawable/app_bg1"
+                    android:id="@+id/diet">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:id="@+id/diet"
+                        android:id="@+id/tv_diet"
                         android:text="Diet"
                         android:textSize="20sp"
-                        android:textColor="@color/lavender"
+                        android:textColor="@color/white"
                         android:fontFamily="sans-serif"
                         android:layout_marginTop="10dp"
                         android:layout_centerHorizontal="true"
@@ -122,7 +125,7 @@
             </androidx.cardview.widget.CardView>
         </LinearLayout>
         <LinearLayout
-            android:layout_width="0dp"
+            android:layout_width="match_parent"
             android:layout_height="175dp"
             android:id="@+id/row2"
             android:orientation="horizontal"
@@ -142,14 +145,15 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/light_black">
+                    android:background="@drawable/app_bg1"
+                    android:id="@+id/shop">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:id="@+id/shop"
+                        android:id="@+id/tv_shop"
                         android:text="Shop"
                         android:textSize="20sp"
-                        android:textColor="@color/lavender"
+                        android:textColor="@color/white"
                         android:fontFamily="sans-serif"
                         android:layout_marginTop="10dp"
                         android:layout_centerHorizontal="true"
@@ -173,14 +177,15 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/light_black">
+                    android:background="@drawable/app_bg1"
+                    android:id="@+id/music">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:id="@+id/music"
+                        android:id="@+id/tv_music"
                         android:text="Music"
                         android:textSize="20sp"
-                        android:textColor="@color/lavender"
+                        android:textColor="@color/white"
                         android:fontFamily="sans-serif"
                         android:layout_marginTop="10dp"
                         android:layout_centerHorizontal="true"
@@ -196,7 +201,7 @@
             </androidx.cardview.widget.CardView>
         </LinearLayout>
         <LinearLayout
-            android:layout_width="0dp"
+            android:layout_width="match_parent"
             android:layout_height="175dp"
             android:id="@+id/row3"
             android:orientation="horizontal"
@@ -216,14 +221,15 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/light_black">
+                    android:background="@drawable/app_bg1"
+                    android:id="@+id/settings">
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:id="@+id/settings"
+                        android:id="@+id/tv_settings"
                         android:text="Settings"
                         android:textSize="20sp"
-                        android:textColor="@color/lavender"
+                        android:textColor="@color/white"
                         android:fontFamily="sans-serif"
                         android:layout_marginTop="10dp"
                         android:layout_centerHorizontal="true"
@@ -247,7 +253,7 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:background="@color/light_black"
+                    android:background="@drawable/app_bg1"
                     android:id="@+id/reminder">
                     <TextView
                         android:layout_width="wrap_content"
@@ -255,7 +261,7 @@
                         android:id="@+id/reminder1"
                         android:text="Reminder"
                         android:textSize="20sp"
-                        android:textColor="@color/lavender"
+                        android:textColor="@color/white"
                         android:fontFamily="sans-serif"
                         android:layout_marginTop="10dp"
                         android:layout_centerHorizontal="true"

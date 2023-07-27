@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/starbg"
     tools:context=".prepathome">
 
     <RelativeLayout
@@ -19,7 +20,7 @@
             android:textAlignment="center"
             android:fontFamily="sans-serif"
             android:textStyle="bold"
-            android:textColor="@color/black">
+            android:textColor="@color/white">
 
         </TextView>
 

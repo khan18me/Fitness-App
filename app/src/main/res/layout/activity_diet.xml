@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/black"
+    android:background="@drawable/app_bg1"
     tools:context=".diet">
 
     <LinearLayout
@@ -23,15 +23,16 @@
             android:id="@+id/constraintLayout"
             android:layout_marginTop="20dp">
         <TextView
-            android:layout_width="0dp"
-            android:layout_height="42dp"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
             android:id="@+id/logoName"
             android:text="Fitness Freak"
             android:textSize="28sp"
-            android:textColor="@color/lavender"
-            android:layout_marginStart="18dp"
+            android:textColor="@color/lava_red"
+            android:layout_marginStart="28dp"
             android:layout_marginTop="40dp"
             android:fontFamily="sans-serif"
+            android:textStyle="bold"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toStartOf="@+id/logoImage"/>
@@ -42,19 +43,20 @@
             android:layout_marginTop="5dp"
             android:text="60% diet 40% exercise"
             android:textSize="14sp"
-            android:layout_marginStart="18dp"
-            android:textColor="@color/lavender"
+            android:layout_marginStart="28dp"
+            android:textColor="@color/lava_red"
+            android:textStyle="bold"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/logoName"
             app:layout_constraintEnd_toStartOf="@+id/logoImage"/>
         <ImageView
-            android:layout_width="0dp"
-            android:layout_height="160dp"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
             android:id="@+id/logoImage"
             android:src="@drawable/categories_restaurant_icon"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            android:layout_marginEnd="16dp"
+            android:layout_marginEnd="10dp"
             app:layout_constraintStart_toEndOf="@id/logoName"/>
         </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -145,7 +147,7 @@
             android:layout_height="139dp"
             android:layout_marginTop="20dp"
             android:layout_marginBottom="50dp"
-            android:background="@drawable/round_bk3">
+            android:background="@drawable/bg2">
 
             <ImageView
                 android:layout_width="120dp"
