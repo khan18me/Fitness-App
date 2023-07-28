@@ -31,17 +31,17 @@
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
                 android:layout_below="@+id/chest_header"
-                android:id="@+id/beg_chest_w1"
+                android:id="@+id/adv_chest_w1"
                 android:layout_height="175dp"
-                android:src="@drawable/warmup"/>
+                android:src="@drawable/adv_chest_w1"/>
 
             <ImageView
                 android:id="@+id/vi_chest_w1"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
-                android:layout_alignEnd="@+id/beg_chest_w1"
+                android:layout_alignEnd="@+id/adv_chest_w1"
                 android:layout_marginStart="50dp"
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="70dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -49,14 +49,14 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_chest_w1"
+                android:layout_below="@+id/adv_chest_w1"
                 android:layout_marginStart="10dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginEnd="10dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginBottom="10dp"
-                android:text="@string/beg_chest_w1"
+                android:text="@string/adv_chest_w1"
                 android:textColor="@color/black"
                 android:textSize="15sp"
                 android:textStyle="bold">
@@ -69,29 +69,29 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_chest_w2"
-                android:layout_marginTop="330dp"
+                android:layout_alignEnd="@+id/adv_chest_w2"
+                android:layout_marginTop="400dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
 
             <pl.droidsonroids.gif.GifImageView
-                android:id="@+id/beg_chest_w2"
+                android:id="@+id/adv_chest_w2"
                 android:layout_width="match_parent"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_chest_w1"
-                android:layout_marginTop="100dp"
-                android:src="@drawable/dumbell_curl" />
+                android:layout_below="@id/adv_chest_w1"
+                android:layout_marginTop="160dp"
+                android:src="@drawable/adv_chest_w2" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_chest_w2"
+                android:layout_below="@+id/adv_chest_w2"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:text="@string/beg_chest_w2"
+                android:text="@string/adv_chest_w2"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp">
 
@@ -102,19 +102,19 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_chest_w3"
-                android:layout_marginTop="640dp"
+                android:layout_alignEnd="@+id/adv_chest_w3"
+                android:layout_marginTop="740dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:id="@+id/beg_chest_w3"
+                android:id="@+id/adv_chest_w3"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_chest_w2"
-                android:layout_marginTop="130dp"
-                android:src="@drawable/hammer_curl" />
+                android:layout_below="@id/adv_chest_w2"
+                android:layout_marginTop="160dp"
+                android:src="@drawable/adv_chest_w3" />
 
 
 
@@ -122,11 +122,11 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_chest_w3"
+                android:layout_below="@+id/adv_chest_w3"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:text="@string/beg_chest_w3"
+                android:text="@string/adv_chest_w3"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp">
 
@@ -134,19 +134,19 @@
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:id="@+id/beg_chest_w4"
+                android:id="@+id/adv_chest_w4"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_chest_w3"
-                android:layout_marginTop="120dp"
-                android:src="@drawable/concentration_curl" />
+                android:layout_below="@id/adv_chest_w3"
+                android:layout_marginTop="160dp"
+                android:src="@drawable/adv_chest_w4" />
 
             <ImageView
                 android:id="@+id/vi_chest_w4"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_chest_w4"
-                android:layout_marginTop="940dp"
+                android:layout_alignEnd="@+id/adv_chest_w4"
+                android:layout_marginTop="1070dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -154,11 +154,11 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_chest_w4"
+                android:layout_below="@+id/adv_chest_w4"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:text="@string/beg_chest_w4"
+                android:text="@string/adv_chest_w4"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp">
 
@@ -168,28 +168,28 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_chest_w4"
-                android:layout_marginTop="1245dp"
+                android:layout_alignEnd="@+id/adv_chest_w4"
+                android:layout_marginTop="1410dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:id="@+id/beg_chest_w5"
+                android:id="@+id/adv_chest_w5"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_chest_w4"
-                android:layout_marginTop="130dp"
-                android:src="@drawable/rest" />
+                android:layout_below="@id/adv_chest_w4"
+                android:layout_marginTop="160dp"
+                android:src="@drawable/adv_chest_w5" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_chest_w5"
+                android:layout_below="@+id/adv_chest_w5"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
-                android:text="@string/beg_chest_w5"
+                android:text="@string/adv_chest_w5"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp">
@@ -201,24 +201,24 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_chest_w5"
-                android:layout_marginTop="1545dp"
+                android:layout_alignEnd="@+id/adv_chest_w5"
+                android:layout_marginTop="1745dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:id="@+id/beg_chest_w6"
+                android:id="@+id/adv_chest_w6"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_chest_w5"
-                android:layout_marginTop="130dp"
-                android:src="@drawable/rest" />
+                android:layout_below="@id/adv_chest_w5"
+                android:layout_marginTop="160dp"
+                android:src="@drawable/adv_chest_w6" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_chest_w6"
+                android:layout_below="@+id/adv_chest_w6"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
@@ -234,24 +234,24 @@
                 android:layout_width="30dp"
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
-                android:layout_alignEnd="@+id/beg_chest_w6"
-                android:layout_marginTop="1845dp"
+                android:layout_alignEnd="@+id/adv_chest_w6"
+                android:layout_marginTop="2075dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
-                android:id="@+id/beg_chest_w7"
+                android:id="@+id/adv_chest_w7"
                 android:layout_height="175dp"
-                android:layout_below="@id/beg_chest_w6"
-                android:layout_marginTop="130dp"
-                android:src="@drawable/rest" />
+                android:layout_below="@id/adv_chest_w6"
+                android:layout_marginTop="160dp"
+                android:src="@drawable/adv_chest_w7" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:layout_below="@+id/beg_chest_w7"
+                android:layout_below="@+id/adv_chest_w7"
                 android:textSize="15sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"

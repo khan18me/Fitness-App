@@ -32,7 +32,7 @@
                 android:layout_below="@+id/shoulder_header"
                 android:id="@+id/beg_shoulder_w1"
                 android:layout_height="175dp"
-                android:src="@drawable/warmup"/>
+                android:src="@drawable/beg_shoulder_w1"/>
 
             <ImageView
                 android:id="@+id/vi_shoulder_w1"
@@ -81,7 +81,7 @@
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_shoulder_w1"
                 android:layout_marginTop="150dp"
-                android:src="@drawable/dumbell_curl" />
+                android:src="@drawable/beg_shoulder_w2" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -113,7 +113,7 @@
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_shoulder_w2"
                 android:layout_marginTop="130dp"
-                android:src="@drawable/hammer_curl" />
+                android:src="@drawable/beg_shoulder_w3" />
 
 
 
@@ -137,7 +137,7 @@
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_shoulder_w3"
                 android:layout_marginTop="120dp"
-                android:src="@drawable/concentration_curl" />
+                android:src="@drawable/beg_shoulder_w4" />
 
             <ImageView
                 android:id="@+id/vi_shoulder_w4"
@@ -179,7 +179,7 @@
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_shoulder_w4"
                 android:layout_marginTop="130dp"
-                android:src="@drawable/rest" />
+                android:src="@drawable/beg_shoulder_w5" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -212,7 +212,7 @@
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_shoulder_w5"
                 android:layout_marginTop="150dp"
-                android:src="@drawable/rest" />
+                android:src="@drawable/beg_shoulder_w6" />
 
             <TextView
                 android:layout_width="match_parent"
