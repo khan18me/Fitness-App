@@ -39,7 +39,7 @@ public class levels extends AppCompatActivity {
         adv_btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),MainActivity.class);
+                Intent i = new Intent(getApplicationContext(),advance.class);
                 startActivity(i);
 
 

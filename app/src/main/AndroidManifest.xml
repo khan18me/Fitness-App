@@ -15,6 +15,30 @@
         android:theme="@style/Theme.FitnessApp"
         tools:targetApi="31">
         <activity
+            android:name=".adv_triceps"
+            android:exported="false" />
+        <activity
+            android:name=".adv_shoulder"
+            android:exported="false" />
+        <activity
+            android:name=".adv_legs"
+            android:exported="false" />
+        <activity
+            android:name=".adv_chest"
+            android:exported="false" />
+        <activity
+            android:name=".adv_biceps"
+            android:exported="false" />
+        <activity
+            android:name=".adv_back"
+            android:exported="false" />
+        <activity
+            android:name=".adv_abs"
+            android:exported="false" />
+        <activity
+            android:name=".advance"
+            android:exported="false" />
+        <activity
             android:name=".itm_legs"
             android:exported="false" />
         <activity
