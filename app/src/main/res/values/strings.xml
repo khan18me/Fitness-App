@@ -17,6 +17,14 @@
     <string name="workout_2">Workout 2</string>
     <string name="workout_3">Workout 3</string>
     <string name="biceps_workout">Biceps Workout</string>
+    <string name="more_app_link">https://play.google.com/store/apps/</string>
+    <string name="report_email_subject">Report Subject</string>
+    <string name="report_email_body">Report Content:\n%s</string>
+    <string name="no_email_app_message">No email app found</string>
+
+
+
+
 
 
     <string name="beg_bic_w1"> 1) Warm-up: Begin with a brief warm-up to increase blood flow to your muscles and prevent injuries.You can do some light cardio, such as jogging or jumping jacks, for about 5 minutes.</string>
@@ -603,12 +611,6 @@
     <string name="adv_legs_w7">7) Sled Push or Sled Pull: 3 sets
 ->Load a sled with weights and either push it for a set distance or attach a harness and pull it backward for a set distance.
 ->This exercise engages various leg muscles while providing a great cardio and strength challenge.</string>
-
-
-
-
-
-
 
 
     <string name="diet_wg_wg1">1) Caloric Surplus: To gain weight, you need to consume more calories than your body burns. Calculate your daily caloric needs using an online calculator and aim to consume around 300-500 calories above that number.</string>
