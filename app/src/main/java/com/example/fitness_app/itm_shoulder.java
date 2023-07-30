@@ -21,7 +21,7 @@ public class itm_shoulder extends AppCompatActivity {
                 itm_shoulder_workout1();
             }
             private void itm_shoulder_workout1() {
-                String v1_itm_shoulder_workout1 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v1_itm_shoulder_workout1 = "https://youtu.be/oBGeXxnigsQ";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v1_itm_shoulder_workout1));
                 startActivity(intent);
             }
@@ -34,7 +34,7 @@ public class itm_shoulder extends AppCompatActivity {
                 itm_shoulder_workout2();
             }
             private void itm_shoulder_workout2() {
-                String v2_itm_shoulder_workout2 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v2_itm_shoulder_workout2 = "https://youtu.be/3VcKaXpzqRo";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v2_itm_shoulder_workout2));
                 startActivity(intent);
             }
@@ -46,7 +46,7 @@ public class itm_shoulder extends AppCompatActivity {
                 itm_shoulder_workout3();
             }
             private void itm_shoulder_workout3() {
-                String v3_itm_shoulder_workout3 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v3_itm_shoulder_workout3 = "https://youtu.be/3ml7BH7mNwQ";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v3_itm_shoulder_workout3));
                 startActivity(intent);
             }
@@ -58,7 +58,7 @@ public class itm_shoulder extends AppCompatActivity {
                 itm_shoulder_workout4();
             }
             private void itm_shoulder_workout4() {
-                String v4_itm_shoulder_workout4 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v4_itm_shoulder_workout4 = "https://youtu.be/4Xr7bKE_fxE";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v4_itm_shoulder_workout4));
                 startActivity(intent);
             }
@@ -70,7 +70,7 @@ public class itm_shoulder extends AppCompatActivity {
                 itm_shoulder_workout5();
             }
             private void itm_shoulder_workout5() {
-                String v5_itm_shoulder_workout5 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v5_itm_shoulder_workout5 = "https://youtube.com/shorts/-Xf_VzxEnys?feature=share";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v5_itm_shoulder_workout5));
                 startActivity(intent);
             }
@@ -82,7 +82,7 @@ public class itm_shoulder extends AppCompatActivity {
                 itm_shoulder_workout6();
             }
             private void itm_shoulder_workout6() {
-                String v6_itm_shoulder_workout6 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v6_itm_shoulder_workout6 = "https://youtu.be/0Po47vvj9g4";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v6_itm_shoulder_workout6));
                 startActivity(intent);
             }

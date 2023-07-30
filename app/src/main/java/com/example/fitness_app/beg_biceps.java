@@ -21,7 +21,7 @@ public class beg_biceps extends AppCompatActivity {
                 beg_bic_workout1();
             }
             private void beg_bic_workout1() {
-                String v1_beg_bic_workout1 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v1_beg_bic_workout1 = "https://youtu.be/rzNBx_B4pQ4";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v1_beg_bic_workout1));
                 startActivity(intent);
             }
@@ -34,7 +34,7 @@ public class beg_biceps extends AppCompatActivity {
                 beg_bic_workout2();
             }
             private void beg_bic_workout2() {
-                String v2_beg_bic_workout2 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v2_beg_bic_workout2 = "https://youtu.be/ykJmrZ5v0Oo";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v2_beg_bic_workout2));
                 startActivity(intent);
             }
@@ -46,7 +46,7 @@ public class beg_biceps extends AppCompatActivity {
                 beg_bic_workout3();
             }
             private void beg_bic_workout3() {
-                String v3_beg_bic_workout3 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v3_beg_bic_workout3 = "hhttps://youtu.be/TwD-YGVP4Bk";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v3_beg_bic_workout3));
                 startActivity(intent);
             }
@@ -58,7 +58,7 @@ public class beg_biceps extends AppCompatActivity {
                 beg_bic_workout4();
             }
             private void beg_bic_workout4() {
-                String v4_beg_bic_workout4 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v4_beg_bic_workout4 = "https://youtu.be/0AUGkch3tzc";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v4_beg_bic_workout4));
                 startActivity(intent);
             }
@@ -70,7 +70,7 @@ public class beg_biceps extends AppCompatActivity {
                 beg_bic_workout5();
             }
             private void beg_bic_workout5() {
-                String v5_beg_bic_workout5 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v5_beg_bic_workout5 = "https://youtu.be/M7qogNry8t4";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v5_beg_bic_workout5));
                 startActivity(intent);
             }
@@ -83,7 +83,7 @@ public class beg_biceps extends AppCompatActivity {
                 beg_bic_workout6();
             }
             private void beg_bic_workout6() {
-                String v6_beg_bic_workout6 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v6_beg_bic_workout6 = "https://youtu.be/QY4gCIYbGQk";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v6_beg_bic_workout6));
                 startActivity(intent);
             }

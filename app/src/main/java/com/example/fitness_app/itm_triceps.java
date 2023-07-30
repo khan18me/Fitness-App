@@ -21,7 +21,7 @@ public class itm_triceps extends AppCompatActivity {
                 itm_tricep_workout1();
             }
             private void itm_tricep_workout1() {
-                String v1_itm_tricep_workout1 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v1_itm_tricep_workout1 = "https://youtube.com/shorts/43rg7fBNP2w?feature=share";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v1_itm_tricep_workout1));
                 startActivity(intent);
             }
@@ -34,7 +34,7 @@ public class itm_triceps extends AppCompatActivity {
                 itm_tricep_workout2();
             }
             private void itm_tricep_workout2() {
-                String v2_itm_tricep_workout2 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v2_itm_tricep_workout2 = "https://youtube.com/shorts/ci5tcFgIntI?feature=share";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v2_itm_tricep_workout2));
                 startActivity(intent);
             }
@@ -46,7 +46,7 @@ public class itm_triceps extends AppCompatActivity {
                 itm_tricep_workout3();
             }
             private void itm_tricep_workout3() {
-                String v3_itm_tricep_workout3 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v3_itm_tricep_workout3 = "https://youtu.be/b5JzUH8gsOg";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v3_itm_tricep_workout3));
                 startActivity(intent);
             }
@@ -58,7 +58,7 @@ public class itm_triceps extends AppCompatActivity {
                 itm_tricep_workout4();
             }
             private void itm_tricep_workout4() {
-                String v4_itm_tricep_workout4 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v4_itm_tricep_workout4 = "https://youtu.be/2-LAMcpzODU";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v4_itm_tricep_workout4));
                 startActivity(intent);
             }
@@ -70,7 +70,7 @@ public class itm_triceps extends AppCompatActivity {
                 itm_tricep_workout5();
             }
             private void itm_tricep_workout5() {
-                String v5_itm_tricep_workout5 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v5_itm_tricep_workout5 = "https://youtu.be/pD3mD6WgykM";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v5_itm_tricep_workout5));
                 startActivity(intent);
             }
@@ -83,7 +83,7 @@ public class itm_triceps extends AppCompatActivity {
                 itm_tricep_workout6();
             }
             private void itm_tricep_workout6() {
-                String v6_itm_tricep_workout6 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v6_itm_tricep_workout6 = "https://youtu.be/6SS6K3lAwZ8";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v6_itm_tricep_workout6));
                 startActivity(intent);
             }

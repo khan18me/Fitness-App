@@ -21,7 +21,7 @@ public class itm_back extends AppCompatActivity {
                 itm_back_workout1();
             }
             private void itm_back_workout1() {
-                String v1_itm_back_workout1 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v1_itm_back_workout1 = "https://youtu.be/r4MzxtBKyNE";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v1_itm_back_workout1));
                 startActivity(intent);
             }
@@ -34,7 +34,7 @@ public class itm_back extends AppCompatActivity {
                 itm_back_workout2();
             }
             private void itm_back_workout2() {
-                String v2_itm_back_workout2 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v2_itm_back_workout2 = "https://youtu.be/dhn5lND_Dfs";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v2_itm_back_workout2));
                 startActivity(intent);
             }
@@ -46,7 +46,7 @@ public class itm_back extends AppCompatActivity {
                 itm_back_workout3();
             }
             private void itm_back_workout3() {
-                String v3_itm_back_workout3 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v3_itm_back_workout3 = "https://youtube.com/shorts/Nqh7q3zDCoQ?feature=share";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v3_itm_back_workout3));
                 startActivity(intent);
             }
@@ -58,7 +58,7 @@ public class itm_back extends AppCompatActivity {
                 itm_back_workout4();
             }
             private void itm_back_workout4() {
-                String v4_itm_back_workout4 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v4_itm_back_workout4 = "https://youtu.be/vwHG9Jfu4sw";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v4_itm_back_workout4));
                 startActivity(intent);
             }
@@ -70,7 +70,7 @@ public class itm_back extends AppCompatActivity {
                 itm_back_workout5();
             }
             private void itm_back_workout5() {
-                String v5_itm_back_workout5 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v5_itm_back_workout5 = "https://youtu.be/FK4rHfWKEac";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v5_itm_back_workout5));
                 startActivity(intent);
             }
@@ -82,7 +82,7 @@ public class itm_back extends AppCompatActivity {
                 itm_back_workout6();
             }
             private void itm_back_workout6() {
-                String v6_itm_back_workout6 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v6_itm_back_workout6 = "https://youtu.be/j3Igk5nyZE4";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v6_itm_back_workout6));
                 startActivity(intent);
             }

@@ -21,7 +21,7 @@ public class itm_chest extends AppCompatActivity {
                 itm_chest_workout1();
             }
             private void itm_chest_workout1() {
-                String v1_itm_chest_workout1 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v1_itm_chest_workout1 = "https://youtu.be/rT7DgCr-3pg";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v1_itm_chest_workout1));
                 startActivity(intent);
             }
@@ -34,7 +34,7 @@ public class itm_chest extends AppCompatActivity {
                 itm_chest_workout2();
             }
             private void itm_chest_workout2() {
-                String v2_itm_chest_workout2 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v2_itm_chest_workout2 = "https://youtu.be/eozdVDA78K0";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v2_itm_chest_workout2));
                 startActivity(intent);
             }
@@ -46,7 +46,7 @@ public class itm_chest extends AppCompatActivity {
                 itm_chest_workout3();
             }
             private void itm_chest_workout3() {
-                String v3_itm_chest_workout3 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v3_itm_chest_workout3 = "https://youtu.be/8iPEnn-ltC8";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v3_itm_chest_workout3));
                 startActivity(intent);
             }
@@ -58,7 +58,7 @@ public class itm_chest extends AppCompatActivity {
                 itm_chest_workout4();
             }
             private void itm_chest_workout4() {
-                String v4_itm_chest_workout4 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v4_itm_chest_workout4 = "https://youtube.com/shorts/iSmXK5xXI14?feature=share";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v4_itm_chest_workout4));
                 startActivity(intent);
             }
@@ -70,7 +70,7 @@ public class itm_chest extends AppCompatActivity {
                 itm_chest_workout5();
             }
             private void itm_chest_workout5() {
-                String v5_itm_chest_workout5 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v5_itm_chest_workout5 = "https://youtu.be/Jf5_PJCFs-g";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v5_itm_chest_workout5));
                 startActivity(intent);
             }
@@ -82,7 +82,7 @@ public class itm_chest extends AppCompatActivity {
                 itm_chest_workout6();
             }
             private void itm_chest_workout6() {
-                String v6_itm_chest_workout6 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v6_itm_chest_workout6 = "https://youtu.be/dX_nSOOJIsE";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v6_itm_chest_workout6));
                 startActivity(intent);
             }
@@ -94,7 +94,7 @@ public class itm_chest extends AppCompatActivity {
                 itm_chest_workout7();
             }
             private void itm_chest_workout7() {
-                String v7_itm_chest_workout7 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v7_itm_chest_workout7 = "https://youtube.com/shorts/43rg7fBNP2w?feature=share";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v7_itm_chest_workout7));
                 startActivity(intent);
             }

@@ -21,7 +21,7 @@ public class adv_abs extends AppCompatActivity {
                 adv_abs_workout1();
             }
             private void adv_abs_workout1() {
-                String v1_adv_abs_workout1 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v1_adv_abs_workout1 = "https://youtu.be/Pr1ieGZ5atk";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v1_adv_abs_workout1));
                 startActivity(intent);
             }
@@ -34,7 +34,7 @@ public class adv_abs extends AppCompatActivity {
                 adv_abs_workout2();
             }
             private void adv_abs_workout2() {
-                String v2_adv_abs_workout2 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v2_adv_abs_workout2 = "https://youtu.be/kICxJien7xM";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v2_adv_abs_workout2));
                 startActivity(intent);
             }
@@ -46,7 +46,7 @@ public class adv_abs extends AppCompatActivity {
                 adv_abs_workout3();
             }
             private void adv_abs_workout3() {
-                String v3_adv_abs_workout3 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v3_adv_abs_workout3 = "https://youtu.be/pAplQXk3dkU";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v3_adv_abs_workout3));
                 startActivity(intent);
             }
@@ -58,7 +58,7 @@ public class adv_abs extends AppCompatActivity {
                 adv_abs_workout4();
             }
             private void adv_abs_workout4() {
-                String v4_adv_abs_workout4 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v4_adv_abs_workout4 = "https://youtu.be/hCE6ejbY3CM";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v4_adv_abs_workout4));
                 startActivity(intent);
             }
@@ -70,7 +70,7 @@ public class adv_abs extends AppCompatActivity {
                 adv_abs_workout5();
             }
             private void adv_abs_workout5() {
-                String v5_adv_abs_workout5 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v5_adv_abs_workout5 = "https://youtu.be/TfTUk2AjV7g";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v5_adv_abs_workout5));
                 startActivity(intent);
             }
@@ -82,7 +82,7 @@ public class adv_abs extends AppCompatActivity {
                 adv_abs_workout6();
             }
             private void adv_abs_workout6() {
-                String v6_adv_abs_workout6 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v6_adv_abs_workout6 = "https://youtu.be/Xhw699i3vAc";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v6_adv_abs_workout6));
                 startActivity(intent);
             }

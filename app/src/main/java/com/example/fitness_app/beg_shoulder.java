@@ -21,7 +21,7 @@ public class beg_shoulder extends AppCompatActivity {
                 beg_shoulder_workout1();
             }
             private void beg_shoulder_workout1() {
-                String v1_beg_shoulder_workout1 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v1_beg_shoulder_workout1 = "https://youtu.be/qEwKCR5JCog";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v1_beg_shoulder_workout1));
                 startActivity(intent);
             }
@@ -34,7 +34,7 @@ public class beg_shoulder extends AppCompatActivity {
                 beg_shoulder_workout2();
             }
             private void beg_shoulder_workout2() {
-                String v2_beg_shoulder_workout2 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v2_beg_shoulder_workout2 = "https://youtu.be/-t7fuZ0KhDA";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v2_beg_shoulder_workout2));
                 startActivity(intent);
             }
@@ -46,7 +46,7 @@ public class beg_shoulder extends AppCompatActivity {
                 beg_shoulder_workout3();
             }
             private void beg_shoulder_workout3() {
-                String v3_beg_shoulder_workout3 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v3_beg_shoulder_workout3 = "https://youtu.be/3VcKaXpzqRo";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v3_beg_shoulder_workout3));
                 startActivity(intent);
             }
@@ -58,7 +58,7 @@ public class beg_shoulder extends AppCompatActivity {
                 beg_shoulder_workout4();
             }
             private void beg_shoulder_workout4() {
-                String v4_beg_shoulder_workout4 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v4_beg_shoulder_workout4 = "https://youtu.be/ttvfGg9d76c";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v4_beg_shoulder_workout4));
                 startActivity(intent);
             }
@@ -70,7 +70,7 @@ public class beg_shoulder extends AppCompatActivity {
                 beg_shoulder_workout5();
             }
             private void beg_shoulder_workout5() {
-                String v5_beg_shoulder_workout5 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v5_beg_shoulder_workout5 = "https://youtu.be/pQDrcNoDNVM";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v5_beg_shoulder_workout5));
                 startActivity(intent);
             }
@@ -82,7 +82,7 @@ public class beg_shoulder extends AppCompatActivity {
                 beg_shoulder_workout6();
             }
             private void beg_shoulder_workout6() {
-                String v6_beg_shoulder_workout6 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v6_beg_shoulder_workout6 = "https://youtu.be/3luPsAtMqfQ";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v6_beg_shoulder_workout6));
                 startActivity(intent);
             }

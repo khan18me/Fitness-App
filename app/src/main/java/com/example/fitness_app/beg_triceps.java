@@ -21,7 +21,7 @@ public class beg_triceps extends AppCompatActivity {
                 beg_tricep_workout1();
             }
             private void beg_tricep_workout1() {
-                String v1_beg_tricep_workout1 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v1_beg_tricep_workout1 = "https://youtu.be/8kNMoWc3yfA";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v1_beg_tricep_workout1));
                 startActivity(intent);
             }
@@ -34,7 +34,7 @@ public class beg_triceps extends AppCompatActivity {
                 beg_tricep_workout2();
             }
             private void beg_tricep_workout2() {
-                String v2_beg_tricep_workout2 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v2_beg_tricep_workout2 = "https://youtu.be/_gsUck-7M74";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v2_beg_tricep_workout2));
                 startActivity(intent);
             }
@@ -46,7 +46,7 @@ public class beg_triceps extends AppCompatActivity {
                 beg_tricep_workout3();
             }
             private void beg_tricep_workout3() {
-                String v3_beg_tricep_workout3 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v3_beg_tricep_workout3 = "https://youtu.be/2-LAMcpzODU";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v3_beg_tricep_workout3));
                 startActivity(intent);
             }
@@ -58,7 +58,7 @@ public class beg_triceps extends AppCompatActivity {
                 beg_tricep_workout4();
             }
             private void beg_tricep_workout4() {
-                String v4_beg_tricep_workout4 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v4_beg_tricep_workout4 = "https://youtu.be/-Vyt2QdsR7E";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v4_beg_tricep_workout4));
                 startActivity(intent);
             }
@@ -70,7 +70,7 @@ public class beg_triceps extends AppCompatActivity {
                 beg_tricep_workout5();
             }
             private void beg_tricep_workout5() {
-                String v5_beg_tricep_workout5 = "https://www.youtube.com/watch?v=iGYeHsgb4CY";
+                String v5_beg_tricep_workout5 = "https://youtu.be/QY4gCIYbGQk";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v5_beg_tricep_workout5));
                 startActivity(intent);
             }
