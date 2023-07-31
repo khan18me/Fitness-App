@@ -40,7 +40,7 @@
                 android:layout_height="30dp"
                 android:layout_alignEnd="@+id/beg_legs_w1"
                 android:layout_marginStart="50dp"
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="70dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -69,7 +69,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_legs_w2"
-                android:layout_marginTop="380dp"
+                android:layout_marginTop="460dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -80,7 +80,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_legs_w1"
-                android:layout_marginTop="150dp"
+                android:layout_marginTop="220dp"
                 android:src="@drawable/beg_legs_w2" />
 
             <TextView
@@ -92,6 +92,7 @@
                 android:textStyle="bold"
                 android:text="@string/beg_legs_w2"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -102,7 +103,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_legs_w3"
-                android:layout_marginTop="690dp"
+                android:layout_marginTop="840dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -112,7 +113,7 @@
                 android:id="@+id/beg_legs_w3"
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_legs_w2"
-                android:layout_marginTop="130dp"
+                android:layout_marginTop="200dp"
                 android:src="@drawable/beg_legs_w3" />
 
 
@@ -127,6 +128,7 @@
                 android:textStyle="bold"
                 android:text="@string/beg_legs_w3"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -136,7 +138,7 @@
                 android:id="@+id/beg_legs_w4"
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_legs_w3"
-                android:layout_marginTop="120dp"
+                android:layout_marginTop="180dp"
                 android:src="@drawable/beg_legs_w4" />
 
             <ImageView
@@ -145,7 +147,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_legs_w4"
-                android:layout_marginTop="980dp"
+                android:layout_marginTop="1190dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -159,6 +161,7 @@
                 android:textStyle="bold"
                 android:text="@string/beg_legs_w4"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -168,7 +171,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_legs_w4"
-                android:layout_marginTop="1295dp"
+                android:layout_marginTop="1555dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -178,7 +181,7 @@
                 android:id="@+id/beg_legs_w5"
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_legs_w4"
-                android:layout_marginTop="130dp"
+                android:layout_marginTop="180dp"
                 android:src="@drawable/beg_legs_w5" />
 
             <TextView
@@ -191,6 +194,7 @@
                 android:text="@string/beg_legs_w5"
 
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -201,7 +205,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_legs_w5"
-                android:layout_marginTop="1620dp"
+                android:layout_marginTop="1900dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -211,7 +215,7 @@
                 android:id="@+id/beg_legs_w6"
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_legs_w5"
-                android:layout_marginTop="150dp"
+                android:layout_marginTop="180dp"
                 android:src="@drawable/beg_legs_w6" />
 
             <TextView
@@ -224,6 +228,7 @@
                 android:text="@string/beg_legs_w6"
 
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -234,7 +239,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_legs_w6"
-                android:layout_marginTop="1890dp"
+                android:layout_marginTop="2225dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -244,7 +249,7 @@
                 android:id="@+id/beg_legs_w7"
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_legs_w6"
-                android:layout_marginTop="100dp"
+                android:layout_marginTop="150dp"
                 android:src="@drawable/beg_legs_w7" />
 
             <TextView
@@ -257,6 +262,7 @@
                 android:text="@string/beg_legs_w7"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>

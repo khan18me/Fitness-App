@@ -32,7 +32,7 @@
                 android:layout_below="@+id/tricep_header"
                 android:id="@+id/beg_tricep_w1"
                 android:layout_height="175dp"
-                android:src="@drawable/beg_tricep_w1"/>
+                android:src="@drawable/adv_tricep_w7"/>
 
             <ImageView
                 android:id="@+id/vi_tricep_w1"
@@ -40,7 +40,7 @@
                 android:layout_height="30dp"
                 android:layout_alignEnd="@+id/beg_tricep_w1"
                 android:layout_marginStart="50dp"
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="70dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -69,19 +69,20 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_tricep_w2"
-                android:layout_marginTop="330dp"
-                android:layout_marginEnd="18dp"
+                android:layout_marginTop="430dp"
+
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
 
             <pl.droidsonroids.gif.GifImageView
                 android:id="@+id/beg_tricep_w2"
-                android:layout_width="match_parent"
+                android:layout_width="400dp"
                 android:layout_height="175dp"
+                android:layout_marginEnd="10dp"
                 android:layout_below="@id/beg_tricep_w1"
-                android:layout_marginTop="100dp"
-                android:src="@drawable/beg_tricep_w2" />
+                android:layout_marginTop="180dp"
+                android:src="@drawable/adv_tricep_w5" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -92,6 +93,7 @@
                 android:textStyle="bold"
                 android:text="@string/beg_tricep_w2"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -102,7 +104,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_tricep_w3"
-                android:layout_marginTop="640dp"
+                android:layout_marginTop="800dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -112,8 +114,8 @@
                 android:id="@+id/beg_tricep_w3"
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_tricep_w2"
-                android:layout_marginTop="130dp"
-                android:src="@drawable/beg_tricep_w3" />
+                android:layout_marginTop="200dp"
+                android:src="@drawable/adv_tricep_w4" />
 
 
 
@@ -127,6 +129,7 @@
                 android:textStyle="bold"
                 android:text="@string/beg_tricep_w3"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -136,8 +139,8 @@
                 android:id="@+id/beg_tricep_w4"
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_tricep_w3"
-                android:layout_marginTop="120dp"
-                android:src="@drawable/beg_tricep_w4" />
+                android:layout_marginTop="200dp"
+                android:src="@drawable/adv_tricep_w5" />
 
             <ImageView
                 android:id="@+id/vi_tricep_w4"
@@ -145,7 +148,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_tricep_w4"
-                android:layout_marginTop="940dp"
+                android:layout_marginTop="1180dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -159,6 +162,7 @@
                 android:textStyle="bold"
                 android:text="@string/beg_tricep_w4"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -168,7 +172,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_tricep_w4"
-                android:layout_marginTop="1245dp"
+                android:layout_marginTop="1545dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -178,7 +182,7 @@
                 android:id="@+id/beg_tricep_w5"
                 android:layout_height="175dp"
                 android:layout_below="@id/beg_tricep_w4"
-                android:layout_marginTop="130dp"
+                android:layout_marginTop="200dp"
                 android:src="@drawable/beg_tricep_w5" />
 
             <TextView

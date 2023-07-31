@@ -32,7 +32,7 @@
                 android:layout_below="@+id/tricep_header"
                 android:id="@+id/adv_tricep_w1"
                 android:layout_height="175dp"
-                android:src="@drawable/adv_tricep_w1"/>
+                android:src="@drawable/itm_tricep_w1"/>
 
             <ImageView
                 android:id="@+id/vi_tricep_w1"
@@ -69,7 +69,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w2"
-                android:layout_marginTop="420dp"
+                android:layout_marginTop="450dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -80,8 +80,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_tricep_w1"
-                android:layout_marginTop="180dp"
-                android:src="@drawable/adv_tricep_w2" />
+                android:layout_marginTop="200dp"
+                android:src="@drawable/itm_tricep_w2" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -92,6 +92,7 @@
                 android:textStyle="bold"
                 android:text="@string/adv_tricep_w2"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -102,7 +103,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w3"
-                android:layout_marginTop="780dp"
+                android:layout_marginTop="830dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -112,7 +113,7 @@
                 android:id="@+id/adv_tricep_w3"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_tricep_w2"
-                android:layout_marginTop="180dp"
+                android:layout_marginTop="200dp"
                 android:src="@drawable/adv_tricep_w3" />
 
 
@@ -127,6 +128,7 @@
                 android:textStyle="bold"
                 android:text="@string/adv_tricep_w3"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -136,8 +138,8 @@
                 android:id="@+id/adv_tricep_w4"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_tricep_w3"
-                android:layout_marginTop="180dp"
-                android:src="@drawable/adv_tricep_w4" />
+                android:layout_marginTop="200dp"
+                android:src="@drawable/itm_tricep_w4" />
 
             <ImageView
                 android:id="@+id/vi_tricep_w4"
@@ -145,7 +147,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w4"
-                android:layout_marginTop="1140dp"
+                android:layout_marginTop="1200dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -159,6 +161,7 @@
                 android:textStyle="bold"
                 android:text="@string/adv_tricep_w4"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -168,7 +171,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w4"
-                android:layout_marginTop="1500dp"
+                android:layout_marginTop="1580dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -176,9 +179,10 @@
             <pl.droidsonroids.gif.GifImageView
                 android:layout_width="match_parent"
                 android:id="@+id/adv_tricep_w5"
+                android:layout_marginEnd="30dp"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_tricep_w4"
-                android:layout_marginTop="180dp"
+                android:layout_marginTop="200dp"
                 android:src="@drawable/adv_tricep_w5" />
 
             <TextView
@@ -191,6 +195,7 @@
                 android:text="@string/adv_tricep_w5"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -200,18 +205,18 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w5"
-                android:layout_marginTop="1845dp"
-                android:layout_marginEnd="18dp"
+                android:layout_marginTop="1945dp"
+                android:layout_marginEnd="4dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
             <pl.droidsonroids.gif.GifImageView
-                android:layout_width="match_parent"
+                android:layout_width="380dp"
                 android:id="@+id/adv_tricep_w6"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_tricep_w5"
-                android:layout_marginTop="180dp"
-                android:src="@drawable/adv_tricep_w6" />
+                android:layout_marginTop="200dp"
+                android:src="@drawable/itm_tricep_w5" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -223,6 +228,7 @@
                 android:text="@string/adv_tricep_w6"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -232,8 +238,8 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w6"
-                android:layout_marginTop="2200dp"
-                android:layout_marginEnd="18dp"
+                android:layout_marginTop="2330dp"
+
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
 
@@ -242,7 +248,7 @@
                 android:id="@+id/adv_tricep_w7"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_tricep_w6"
-                android:layout_marginTop="180dp"
+                android:layout_marginTop="210dp"
                 android:src="@drawable/adv_tricep_w7" />
 
             <TextView
@@ -255,6 +261,7 @@
                 android:text="@string/adv_tricep_w7"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>

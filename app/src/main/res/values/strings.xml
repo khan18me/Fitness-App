@@ -27,623 +27,623 @@
 
 
 
-    <string name="beg_bic_w1"> 1) Warm-up: Begin with a brief warm-up to increase blood flow to your muscles and prevent injuries.You can do some light cardio, such as jogging or jumping jacks, for about 5 minutes.</string>
-    <string name="beg_bic_w2"> 2) Standing Barbell or Dumbbell Curls: Stand with your feet shoulder–width apart, and hold a barbell or dumbbells with an underhand grip (palms facing upward). Curl the weight up towards your shoulders while keeping your elbows close to your body. Slowly lower the weight back down. Aim for 3 sets of 10–12 repetitions.</string>
-    <string name="beg_bic_w3"> 3) Hammer Curls: Similar to standing curls, but this time, hold the dumbbells with a neutral grip (palms facing each other). Curl the weights up towards your shoulders, and then lower them back down. Perform 3 sets of 10–12 repetitions.</string>
-    <string name="beg_bic_w4"> 4) Concentration Curls: Sit on a bench with your legs spread apart. Hold a dumbbell in one hand and place the back of your upper arm against your inner thigh. Curl the weight upward, focusing on contracting your biceps. Lower it back down. Do 3 sets of 10–12 repetitions per arm.</string>
+    <string name="beg_bic_w1"> 1) Warm-up: Begin with a brief warm-up to increase blood flow to your muscles and prevent injuries.\nYou can do some light cardio, such as jogging or jumping jacks, for about 5 minutes.</string>
+    <string name="beg_bic_w2"> 2) Standing Barbell or Dumbbell Curls: Stand with your feet shoulder–width apart, and hold a barbell or dumbbells with an underhand grip (palms facing upward).\nCurl the weight up towards your shoulders while keeping your elbows close to your body.\nSlowly lower the weight back down. Aim for 3 sets of 10–12 repetitions.</string>
+    <string name="beg_bic_w3"> 3) Hammer Curls: Similar to standing curls, but this time, hold the dumbbells with a neutral grip (palms facing each other).\nCurl the weights up towards your shoulders, and then lower them back down.\nPerform 3 sets of 10–12 repetitions.</string>
+    <string name="beg_bic_w4"> 4) Concentration Curls: Sit on a bench with your legs spread apart.\nHold a dumbbell in one hand and place the back of your upper arm against your inner thigh.\nCurl the weight upward, focusing on contracting your biceps.\nLower it back down.\nDo 3 sets of 10–12 repetitions per arm.</string>
     <string name="beg_bic_w5"> 5) Rest: Take a short rest (about 1–2 minutes) between each set to allow your muscles to recover.</string>
     <string name="beg_bic_w6"> 6) Cool Down: After completing the exercises, do some gentle stretching for your biceps and other major muscle groups involved in the workout.</string>
 
 
     <string name="beg_chest_w1">1) Push-ups: 3 sets of 8-10 reps
-->Start with your hands slightly wider than shoulder-width apart.
-->Lower your body until your chest almost touches the ground.
-->Push back up to the starting position.</string>
+\n->Start with your hands slightly wider than shoulder-width apart.
+\n->Lower your body until your chest almost touches the ground.
+\n->Push back up to the starting position.</string>
     <string name="beg_chest_w2">2) Dumbbell Bench Press: 3 sets of 8-10 reps
-->Lie flat on a bench with a dumbbell in each hand, palms facing forward.
-->Lower the dumbbells to the sides of your chest, keeping your elbows at 90 degrees.
-->Push the dumbbells back up to the starting position.</string>
+\n->Lie flat on a bench with a dumbbell in each hand, palms facing forward.
+\n->Lower the dumbbells to the sides of your chest, keeping your elbows at 90 degrees.
+\n->Push the dumbbells back up to the starting position.</string>
     <string name="beg_chest_w3">3) Dumbbell Flyes: 3 sets of 10-12 reps
-->Lie flat on a bench with a dumbbell in each hand, palms facing each other.
-->Lower the dumbbells out to your sides in a wide arc, feeling a stretch in your chest.
-->Bring the dumbbells back up, squeezing your chest muscles.</string>
+\n->Lie flat on a bench with a dumbbell in each hand, palms facing each other.
+\n->Lower the dumbbells out to your sides in a wide arc, feeling a stretch in your chest.
+\n->Bring the dumbbells back up, squeezing your chest muscles.</string>
     <string name="beg_chest_w4">4) Incline Push-ups: 3 sets of 8-10 reps
-->Find an elevated surface (e.g., a bench or sturdy chair) and place your hands on it.
-->Position yourself at an incline angle and perform push-ups.
-->Lower your body and push back up.</string>
+\n->Find an elevated surface (e.g., a bench or sturdy chair) and place your hands on it.
+\n->Position yourself at an incline angle and perform push-ups.
+\n->Lower your body and push back up.</string>
     <string name="beg_chest_w5">5) Chest Stretch: Hold for 20-30 seconds
-->Stand tall and clasp your hands behind your back.
-->Straighten your arms and lift them slightly, feeling a stretch in your chest.</string>
+\n->Stand tall and clasp your hands behind your back.
+\n->Straighten your arms and lift them slightly, feeling a stretch in your chest.</string>
 
 
     <string name="beg_shoulder_w1">1) Shoulder Press (Dumbbell or Barbell): 3 sets of 8-10 reps
-->Sit or stand with your back straight and core engaged.
-->Hold a dumbbell in each hand at shoulder level or use a barbell resting on your shoulders.
-->Press the weights upward until your arms are fully extended overhead.
-->Lower the weights back down to shoulder level.</string>
+\n->Sit or stand with your back straight and core engaged.
+\n->Hold a dumbbell in each hand at shoulder level or use a barbell resting on your shoulders.
+\n->Press the weights upward until your arms are fully extended overhead.
+\n->Lower the weights back down to shoulder level.</string>
     <string name="beg_shoulder_w2">2) Front Raises: 3 sets of 10-12 reps
-->Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
-->Keeping your arms straight, raise the dumbbells to shoulder level, one at a time.
-->Slowly lower the weights back to the starting position.</string>
+\n->Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
+\n->Keeping your arms straight, raise the dumbbells to shoulder level, one at a time.
+\n->Slowly lower the weights back to the starting position.</string>
     <string name="beg_shoulder_w3">3) Lateral Raises: 3 sets of 10-12 reps
-->Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
-->Keeping a slight bend in your elbows, raise the dumbbells to the sides until they reach shoulder height.
-->Lower the weights back down to your sides.</string>
+\n->Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
+\n->Keeping a slight bend in your elbows, raise the dumbbells to the sides until they reach shoulder height.
+\n->Lower the weights back down to your sides.</string>
     <string name="beg_shoulder_w4">4) Bent-Over Raises (Rear Deltoid Raises): 3 sets of 10-12 reps
-->Bend forward at the hips, keeping your back flat and knees slightly bent.
-->Hold a dumbbell in each hand, palms facing inwards towards your body.
-->Raise the dumbbells out to the sides until your arms are parallel to the ground.
-->Lower the weights back down with control.</string>
+\n->Bend forward at the hips, keeping your back flat and knees slightly bent.
+\n->Hold a dumbbell in each hand, palms facing inwards towards your body.
+\n->Raise the dumbbells out to the sides until your arms are parallel to the ground.
+\n->Lower the weights back down with control.</string>
     <string name="beg_shoulder_w5">5) Arnold Press: 3 sets of 8-10 reps
-->Start with dumbbells at shoulder height, palms facing your body.
-->As you press the dumbbells upward, rotate your palms to face forward.
-->At the top of the movement, your arms should be fully extended and palms facing away from you.
-->Reverse the motion and bring the dumbbells back to the starting position, rotating your palms back to the initial position.</string>
+\n->Start with dumbbells at shoulder height, palms facing your body.
+\n->As you press the dumbbells upward, rotate your palms to face forward.
+\n->At the top of the movement, your arms should be fully extended and palms facing away from you.
+\n->Reverse the motion and bring the dumbbells back to the starting position, rotating your palms back to the initial position.</string>
     <string name="beg_shoulder_w6">6) Shoulder Stretch: Hold for 20-30 seconds on each arm
-->Extend one arm across your chest.
-->With your other hand, gently pull the extended arm closer to your body, feeling a stretch in your shoulder.</string>
+\n->Extend one arm across your chest.
+\n->With your other hand, gently pull the extended arm closer to your body, feeling a stretch in your shoulder.</string>
 
 
     <string name="beg_tricep_w1">1) Tricep Dips (Assisted if needed): 3 sets of 8-10 reps
-->Find parallel bars or use the edge of a sturdy chair/bench.
-->Lower your body by bending your elbows until they reach a 90-degree angle.
-->Push back up to the starting position.</string>
+\n->Find parallel bars or use the edge of a sturdy chair/bench.
+\n->Lower your body by bending your elbows until they reach a 90-degree angle.
+\n->Push back up to the starting position.</string>
     <string name="beg_tricep_w2">2) Dumbbell Tricep Extensions (Skull Crushers): 3 sets of 10-12 reps
-->Lie flat on a bench with a dumbbell in each hand, arms extended straight up.
-->Bend your elbows to lower the dumbbells towards your forehead (carefully).
-->Extend your arms back up to the starting position.
+\n->Lie flat on a bench with a dumbbell in each hand, arms extended straight up.
+\n->Bend your elbows to lower the dumbbells towards your forehead (carefully).
+\n->Extend your arms back up to the starting position.
 </string>
     <string name="beg_tricep_w3">3) Tricep Pushdowns (with resistance band or cable machine): 3 sets of 12-15 reps
-->Attach a resistance band or use a cable machine with a rope attachment.
-->Stand with your feet shoulder-width apart, and elbows at 90 degrees.
-->Push the rope or band down, fully extending your arms.
-->Slowly return to the starting position.</string>
+\n->Attach a resistance band or use a cable machine with a rope attachment.
+\n->Stand with your feet shoulder-width apart, and elbows at 90 degrees.
+\n->Push the rope or band down, fully extending your arms.
+\n->Slowly return to the starting position.</string>
     <string name="beg_tricep_w4">4) Overhead Dumbbell Extensions: 3 sets of 10-12 reps
-->Stand or sit on a bench with a dumbbell in both hands.
-->Raise the dumbbell overhead, keeping your upper arms close to your ears.
-->Lower the dumbbell behind your head by bending your elbows.
-->Extend your arms back up to the starting position.</string>
+\n->Stand or sit on a bench with a dumbbell in both hands.
+\n->Raise the dumbbell overhead, keeping your upper arms close to your ears.
+\n->Lower the dumbbell behind your head by bending your elbows.
+\n->Extend your arms back up to the starting position.</string>
     <string name="beg_tricep_w5">5) Tricep Stretch: Hold for 20-30 seconds on each arm
-->Extend one arm overhead and bend at the elbow, reaching down your back.
-->With your other hand, gently push on the bent elbow to deepen the stretch.</string>
+\n->Extend one arm overhead and bend at the elbow, reaching down your back.
+\n->With your other hand, gently push on the bent elbow to deepen the stretch.</string>
 
 
     <string name="beg_back_w1">1) Bodyweight Rows (or Inverted Rows): 3 sets of 8-10 reps
-->Find a sturdy horizontal bar or use a Smith machine at waist height.
-->Lie down underneath the bar and grasp it with an overhand grip.
-->Keep your body in a straight line and pull your chest up towards the bar.
-->Lower your body back down to the starting position.</string>
+\n->Find a sturdy horizontal bar or use a Smith machine at waist height.
+\n->Lie down underneath the bar and grasp it with an overhand grip.
+\n->Keep your body in a straight line and pull your chest up towards the bar.
+\n->Lower your body back down to the starting position.</string>
     <string name="beg_back_w2">2) Lat Pulldowns: 3 sets of 10-12 reps
-->Sit at a lat pulldown machine with your knees positioned under the pads.
-->Grab the bar with a wide overhand grip, hands slightly wider than shoulder-width apart.
-->Pull the bar down to your chest while squeezing your shoulder blades together.
-->Slowly release the bar back up to the starting position.</string>
+\n->Sit at a lat pulldown machine with your knees positioned under the pads.
+\n->Grab the bar with a wide overhand grip, hands slightly wider than shoulder-width apart.
+\n->Pull the bar down to your chest while squeezing your shoulder blades together.
+\n->Slowly release the bar back up to the starting position.</string>
     <string name="beg_back_w3">3) Dumbbell Rows: 3 sets of 10-12 reps per arm
-->Place one knee and the same-side hand on a bench, keeping your back parallel to the ground.
-->Hold a dumbbell in the other hand with your arm extended towards the ground.
-->Pull the dumbbell up towards your torso, squeezing your back muscles.
-->Lower the dumbbell back down and repeat on the other side.</string>
+\n->Place one knee and the same-side hand on a bench, keeping your back parallel to the ground.
+\n->Hold a dumbbell in the other hand with your arm extended towards the ground.
+\n->Pull the dumbbell up towards your torso, squeezing your back muscles.
+\n->Lower the dumbbell back down and repeat on the other side.</string>
     <string name="beg_back_w4">4) Superman (Back Extensions): 3 sets of 12-15 reps
-->Lie face down on the ground with your arms extended in front of you.
-->Lift your arms, chest, and legs off the ground simultaneously, engaging your lower back.
-->Hold the top position for a moment, then lower back down.</string>
+\n->Lie face down on the ground with your arms extended in front of you.
+\n->Lift your arms, chest, and legs off the ground simultaneously, engaging your lower back.
+\n->Hold the top position for a moment, then lower back down.</string>
     <string name="beg_back_w5">5) Deadlifts (Romanian or Trap Bar): 3 sets of 8-10 reps
-->Stand with your feet shoulder-width apart, holding a barbell with an overhand grip.
-->Hinge at your hips and lower the barbell towards the ground, keeping your back flat.
-->Push through your heels and bring your torso back to an upright position.</string>
+\n->Stand with your feet shoulder-width apart, holding a barbell with an overhand grip.
+\n->Hinge at your hips and lower the barbell towards the ground, keeping your back flat.
+\n->Push through your heels and bring your torso back to an upright position.</string>
     <string name="beg_back_w6">6) Back Stretch: Hold for 20-30 seconds
-->Sit on the ground with your legs extended in front of you.
-->Reach forward with your arms, trying to touch your toes, and feel a stretch in your back.</string>
+\n->Sit on the ground with your legs extended in front of you.
+\n->Reach forward with your arms, trying to touch your toes, and feel a stretch in your back.</string>
 
 
     <string name="beg_abs_w1">1) Crunches: 3 sets of 15-20 reps
-->Lie on your back with your knees bent and feet flat on the floor.
-->Place your hands behind your head, but avoid pulling on your neck.
-->Engage your core and lift your shoulders off the ground, curling towards your knees.
-->Lower your upper back back down with control.</string>
+\n->Lie on your back with your knees bent and feet flat on the floor.
+\n->Place your hands behind your head, but avoid pulling on your neck.
+\n->Engage your core and lift your shoulders off the ground, curling towards your knees.
+\n->Lower your upper back back down with control.</string>
     <string name="beg_abs_w2">2) Leg Raises: 3 sets of 10-12 reps
-->Lie flat on your back with your legs straight.
-->Keep your hands by your sides or under your glutes for support.
-->Engage your core and lift your legs off the ground until they form a 90-degree angle with your torso.
-->Lower your legs back down slowly without touching the ground.</string>
+\n->Lie flat on your back with your legs straight.
+\n->Keep your hands by your sides or under your glutes for support.
+\n->Engage your core and lift your legs off the ground until they form a 90-degree angle with your torso.
+\n->Lower your legs back down slowly without touching the ground.</string>
     <string name="beg_abs_w3">3) Bicycle Crunches: 3 sets of 20-30 reps (10-15 each side)
-->Lie on your back and place your hands behind your head.
-->Lift your shoulders off the ground, bringing your right elbow towards your left knee while extending your right leg straight.
-->Alternate sides by bringing your left elbow towards your right knee while extending your left leg straight.
-->Continue alternating in a "bicycling" motion.</string>
+\n->Lie on your back and place your hands behind your head.
+\n->Lift your shoulders off the ground, bringing your right elbow towards your left knee while extending your right leg straight.
+\n->Alternate sides by bringing your left elbow towards your right knee while extending your left leg straight.
+\n->Continue alternating in a "bicycling" motion.</string>
     <string name="beg_abs_w4">4) Plank: 3 sets, hold for 30 seconds to 1 minute each
-->Get into a push-up position with your hands directly under your shoulders.
-->Keep your body in a straight line from head to heels, engaging your core.
-->Hold the position, focusing on maintaining a stable and flat back.</string>
+\n->Get into a push-up position with your hands directly under your shoulders.
+\n->Keep your body in a straight line from head to heels, engaging your core.
+\n->Hold the position, focusing on maintaining a stable and flat back.</string>
     <string name="beg_abs_w5">5) Russian Twists: 3 sets of 20-30 reps (10-15 each side)
-->Sit on the ground with your knees bent and feet flat on the floor.
-->Lean back slightly while keeping your back straight and core engaged.
-->Hold your hands together and twist your torso to the right, then to the left, tapping the ground beside you.</string>
+\n->Sit on the ground with your knees bent and feet flat on the floor.
+\n->Lean back slightly while keeping your back straight and core engaged.
+\n->Hold your hands together and twist your torso to the right, then to the left, tapping the ground beside you.</string>
     <string name="beg_abs_w6">6) Reverse Crunches: 3 sets of 12-15 reps
-->Lie on your back with your knees bent and feet off the ground.
-->Place your hands on the floor beside you or under your glutes for support.
-->Use your lower abs to lift your hips off the ground, curling them towards your chest.
-->Lower your hips back down slowly without touching the ground.</string>
+\n->Lie on your back with your knees bent and feet off the ground.
+\n->Place your hands on the floor beside you or under your glutes for support.
+\n->Use your lower abs to lift your hips off the ground, curling them towards your chest.
+\n->Lower your hips back down slowly without touching the ground.</string>
 
 
     <string name="beg_legs_w1">1) Bodyweight Squats: 3 sets of 12-15 reps
-->Stand with your feet shoulder-width apart and toes slightly turned out.
-->Lower your body by bending at the hips and knees, as if sitting back into a chair.
-->Keep your chest up and your knees in line with your toes.
-->Push through your heels to return to the starting position.</string>
+\n->Stand with your feet shoulder-width apart and toes slightly turned out.
+\n->Lower your body by bending at the hips and knees, as if sitting back into a chair.
+\n->Keep your chest up and your knees in line with your toes.
+\n->Push through your heels to return to the starting position.</string>
     <string name="beg_legs_w2">2) Lunges: 3 sets of 10-12 reps per leg
-->Stand with your feet together.
-->Take a step forward with one foot and lower your body until both knees are at 90-degree angles.
-->Push through your front heel to return to the starting position.
-->Alternate legs for each repetition.</string>
+\n->Stand with your feet together.
+\n->Take a step forward with one foot and lower your body until both knees are at 90-degree angles.
+\n->Push through your front heel to return to the starting position.
+\n->Alternate legs for each repetition.</string>
     <string name="beg_legs_w3">3) Glute Bridges: 3 sets of 12-15 reps
-->Lie on your back with your knees bent and feet flat on the floor, hip-width apart.
-->Engage your core and push through your heels to lift your hips off the ground.
-->Squeeze your glutes at the top of the movement, then lower your hips back down.</string>
+\n->Lie on your back with your knees bent and feet flat on the floor, hip-width apart.
+\n->Engage your core and push through your heels to lift your hips off the ground.
+\n->Squeeze your glutes at the top of the movement, then lower your hips back down.</string>
     <string name="beg_legs_w4">4) Standing Calf Raises: 3 sets of 15-20 reps
 
-->Stand with your feet flat on the ground and hands on a wall or stable surface for support.
-->Rise up onto the balls of your feet, lifting your heels as high as possible.
-->Lower your heels back down to the starting position.</string>
+\n->Stand with your feet flat on the ground and hands on a wall or stable surface for support.
+\n->Rise up onto the balls of your feet, lifting your heels as high as possible.
+\n->Lower your heels back down to the starting position.</string>
     <string name="beg_legs_w5">5) Step-ups: 3 sets of 10-12 reps per leg
-->Find a stable step or elevated surface.
-->Step one foot onto the step, pushing through your heel, and bring your other foot up.
-->Step back down with the same foot, then alternate to the other leg.</string>
+\n->Find a stable step or elevated surface.
+\n->Step one foot onto the step, pushing through your heel, and bring your other foot up.
+\n->Step back down with the same foot, then alternate to the other leg.</string>
     <string name="beg_legs_w6">6) Wall Sits: 3 sets, hold for 30 seconds to 1 minute each
-->Stand with your back against a wall and slide down until your knees are at a 90-degree angle.
-->Keep your back against the wall and hold the position, engaging your quads and core.</string>
+\n->Stand with your back against a wall and slide down until your knees are at a 90-degree angle.
+\n->Keep your back against the wall and hold the position, engaging your quads and core.</string>
     <string name="beg_legs_w7">7) Seated Leg Curls (Machine or Resistance Band): 3 sets of 10-12 reps
-->Sit on a leg curl machine or the edge of a bench with a resistance band wrapped around your ankles.
-->Curl your legs towards your glutes, engaging your hamstrings.
-->Slowly lower your legs back to the starting position.</string>
+\n->Sit on a leg curl machine or the edge of a bench with a resistance band wrapped around your ankles.
+\n->Curl your legs towards your glutes, engaging your hamstrings.
+\n->Slowly lower your legs back to the starting position.</string>
 
 
     <string name="itm_chest_w1">1) Barbell Bench Press: 4 sets of 8-10 reps
-->Lie flat on a bench with your feet firmly planted on the ground.
-->Grip the barbell with hands slightly wider than shoulder-width apart.
-->Lower the barbell to your chest with control, then push it back up to the starting position.</string>
+\n->Lie flat on a bench with your feet firmly planted on the ground.
+\n->Grip the barbell with hands slightly wider than shoulder-width apart.
+\n->Lower the barbell to your chest with control, then push it back up to the starting position.</string>
     <string name="itm_chest_w2">2) Dumbbell Flyes: 4 sets of 10-12 reps
-->Lie flat on a bench with a dumbbell in each hand, palms facing each other.
-->Lower the dumbbells out to your sides in a wide arc, feeling a stretch in your chest.
-->Bring the dumbbells back up to the starting position, squeezing your chest muscles.</string>
+\n->Lie flat on a bench with a dumbbell in each hand, palms facing each other.
+\n->Lower the dumbbells out to your sides in a wide arc, feeling a stretch in your chest.
+\n->Bring the dumbbells back up to the starting position, squeezing your chest muscles.</string>
     <string name="itm_chest_w3">3) Incline Dumbbell Press: 4 sets of 8-10 reps
-->Set the bench to a 30-45 degree incline.
-->Hold a dumbbell in each hand and lie back on the bench.
-->Lower the dumbbells to your shoulders, then press them up over your chest.</string>
+\n->Set the bench to a 30-45 degree incline.
+\n->Hold a dumbbell in each hand and lie back on the bench.
+\n->Lower the dumbbells to your shoulders, then press them up over your chest.</string>
     <string name="itm_chest_w4">4) Cable Crossovers: 3 sets of 12-15 reps
-->Set the cable machine at chest height with handles attached.
-->Stand in the center, one foot in front of the other for stability.
-->Cross one hand over the other in a hugging motion, feeling your chest muscles contract.
-->Return to the starting position with control.</string>
+\n->Set the cable machine at chest height with handles attached.
+\n->Stand in the center, one foot in front of the other for stability.
+\n->Cross one hand over the other in a hugging motion, feeling your chest muscles contract.
+\n->Return to the starting position with control.</string>
     <string name="itm_chest_w5">5) Push-Ups (Weighted if possible): 3 sets of 12-15 reps
-->Get into a standard push-up position with your hands slightly wider than shoulder-width apart.
-->Place a weight plate or a backpack filled with weights on your back.
-->Lower your chest towards the ground, then push back up.</string>
+\n->Get into a standard push-up position with your hands slightly wider than shoulder-width apart.
+\n->Place a weight plate or a backpack filled with weights on your back.
+\n->Lower your chest towards the ground, then push back up.</string>
     <string name="itm_chest_w6">6) Chest Dips: 3 sets of 8-10 reps
-->Use parallel bars or dip bars.
-->Lower your body until your elbows are bent at 90 degrees or slightly below.
-->Push back up to the starting position, focusing on your chest muscles.</string>
+\n->Use parallel bars or dip bars.
+\n->Lower your body until your elbows are bent at 90 degrees or slightly below.
+\n->Push back up to the starting position, focusing on your chest muscles.</string>
     <string name="itm_chest_w7">7) Close Grip Bench Press: 3 sets of 8-10 reps
-->Lie flat on a bench with your hands closer together than in a regular bench press.
-->Lower the barbell to your chest, then press it back up.</string>
+\n->Lie flat on a bench with your hands closer together than in a regular bench press.
+\n->Lower the barbell to your chest, then press it back up.</string>
 
 
     <string name="itm_bicep_w1">1) Barbell Bicep Curls: 4 sets of 8-10 reps
-->Stand with your feet shoulder-width apart, holding a barbell with an underhand grip.
-->Keep your elbows close to your sides and curl the barbell up towards your shoulders.
-->Lower the barbell back down with control.</string>
+\n->Stand with your feet shoulder-width apart, holding a barbell with an underhand grip.
+\n->Keep your elbows close to your sides and curl the barbell up towards your shoulders.
+\n->Lower the barbell back down with control.</string>
     <string name="itm_bicep_w2">2) Alternating Dumbbell Curls: 4 sets of 10-12 reps per arm
-->Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
-->Curl one dumbbell up towards your shoulder while keeping the other arm down.
-->Lower the dumbbell back down and alternate arms.</string>
+\n->Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
+\n->Curl one dumbbell up towards your shoulder while keeping the other arm down.
+\n->Lower the dumbbell back down and alternate arms.</string>
     <string name="itm_bicep_w3">3) Hammer Curls: 3 sets of 10-12 reps
-->Stand with your feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip (palms facing each other).
-->Curl the dumbbells up towards your shoulders while keeping your palms facing inward throughout the movement.
-->Lower the dumbbells back down with control.</string>
+\n->Stand with your feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip (palms facing each other).
+\n->Curl the dumbbells up towards your shoulders while keeping your palms facing inward throughout the movement.
+\n->Lower the dumbbells back down with control.</string>
     <string name="itm_bicep_w4">4) Preacher Curls (with EZ bar or dumbbells): 3 sets of 10-12 reps
-->Sit on a preacher curl bench or use an incline bench with an EZ bar or dumbbells.
-->Place your upper arms against the pad and curl the weight up towards your shoulders.
-->Lower the weight back down in a controlled manner.</string>
+\n->Sit on a preacher curl bench or use an incline bench with an EZ bar or dumbbells.
+\n->Place your upper arms against the pad and curl the weight up towards your shoulders.
+\n->Lower the weight back down in a controlled manner.</string>
     <string name="itm_bicep_w5">5) Concentration Curls: 3 sets of 10-12 reps per arm
-->Sit on a bench, holding a dumbbell in one hand.
-->Rest your elbow on the inside of your thigh, letting the dumbbell hang down.
-->Curl the dumbbell up towards your shoulder, keeping your upper arm stationary.
-->Lower the dumbbell back down with control.</string>
+\n->Sit on a bench, holding a dumbbell in one hand.
+\n->Rest your elbow on the inside of your thigh, letting the dumbbell hang down.
+\n->Curl the dumbbell up towards your shoulder, keeping your upper arm stationary.
+\n->Lower the dumbbell back down with control.</string>
     <string name="itm_bicep_w6">6) Reverse Barbell Curls: 3 sets of 10-12 reps
-->Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing down).
-->Curl the barbell up towards your shoulders, keeping your elbows close to your sides.
-->Lower the barbell back down with control.</string>
+\n->Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing down).
+\n->Curl the barbell up towards your shoulders, keeping your elbows close to your sides.
+\n->Lower the barbell back down with control.</string>
 
 
     <string name="itm_tricep_w1">1) Close Grip Bench Press: 4 sets of 8-10 reps
-->Lie flat on a bench with your hands placed close together on the barbell (about shoulder-width apart).
-->Lower the barbell to your chest, keeping your elbows close to your body.
-->Push the barbell back up to the starting position.</string>
+\n->Lie flat on a bench with your hands placed close together on the barbell (about shoulder-width apart).
+\n->Lower the barbell to your chest, keeping your elbows close to your body.
+\n->Push the barbell back up to the starting position.</string>
     <string name="itm_tricep_w2">2) Tricep Dips (Weighted if possible): 4 sets of 8-10 reps
-->Use parallel bars or dip bars.
-->Lower your body until your elbows are bent at 90 degrees or slightly below.
-->Push back up to the starting position, focusing on your triceps.</string>
+\n->Use parallel bars or dip bars.
+\n->Lower your body until your elbows are bent at 90 degrees or slightly below.
+\n->Push back up to the starting position, focusing on your triceps.</string>
     <string name="itm_tricep_w3">Overhead Tricep Extensions (with EZ bar or dumbbell): 3 sets of 10-12 reps
-->Stand or sit on a bench with a dumbbell in both hands or an EZ bar overhead.
-->Lower the weight behind your head by bending your elbows.
-->Extend your arms back up to the starting position.</string>
+\n->Stand or sit on a bench with a dumbbell in both hands or an EZ bar overhead.
+\n->Lower the weight behind your head by bending your elbows.
+\n->Extend your arms back up to the starting position.</string>
     <string name="itm_tricep_w4">4) Tricep Rope Pushdowns: 3 sets of 12-15 reps
-->Attach a rope to the cable machine and set it to a high position.
-->Stand facing the machine and grab the rope with both hands.
-->Push the rope down until your arms are fully extended.
-->Slowly release the rope back up, focusing on the tricep contraction.</string>
+\n->Attach a rope to the cable machine and set it to a high position.
+\n->Stand facing the machine and grab the rope with both hands.
+\n->Push the rope down until your arms are fully extended.
+\n->Slowly release the rope back up, focusing on the tricep contraction.</string>
     <string name="itm_tricep_w5">5) Diamond Push-Ups: 3 sets of 10-12 reps
-->Get into a push-up position with your hands close together, forming a diamond shape with your thumbs and index fingers.
-->Lower your chest towards the diamond shape while keeping your elbows close to your body.
-->Push back up to the starting position.</string>
+\n->Get into a push-up position with your hands close together, forming a diamond shape with your thumbs and index fingers.
+\n->Lower your chest towards the diamond shape while keeping your elbows close to your body.
+\n->Push back up to the starting position.</string>
     <string name="itm_tricep_w6">6) Tricep Kickbacks: 3 sets of 10-12 reps per arm
-->Hold a dumbbell in each hand and hinge forward at your hips.
-->Keep your upper arms close to your body and extend your forearms back.
-->Squeeze your triceps at the top of the movement before lowering the dumbbells back down.</string>
+\n->Hold a dumbbell in each hand and hinge forward at your hips.
+\n->Keep your upper arms close to your body and extend your forearms back.
+\n->Squeeze your triceps at the top of the movement before lowering the dumbbells back down.</string>
 
 
     <string name="itm_shoulder_w1">1) Seated Barbell Shoulder Press: 4 sets of 8-10 reps
-->Sit on a bench with back support, holding a barbell at shoulder height.
-->Press the barbell overhead until your arms are fully extended.
-->Lower the barbell back down to shoulder height with control.</string>
+\n->Sit on a bench with back support, holding a barbell at shoulder height.
+\n->Press the barbell overhead until your arms are fully extended.
+\n->Lower the barbell back down to shoulder height with control.</string>
     <string name="itm_shoulder_w2">2) Dumbbell Lateral Raises: 4 sets of 10-12 reps
-->Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
-->Lift the dumbbells out to your sides until they reach shoulder height.
-->Lower the dumbbells back down with control.</string>
+\n->Stand with your feet shoulder-width apart, holding a dumbbell in each hand.
+\n->Lift the dumbbells out to your sides until they reach shoulder height.
+\n->Lower the dumbbells back down with control.</string>
     <string name="itm_shoulder_w3">3) Arnold Press: 3 sets of 10-12 reps
-->Start with dumbbells at shoulder height, palms facing your body.
-->As you press the dumbbells upward, rotate your palms to face forward.
-->At the top of the movement, your arms should be fully extended, and palms facing away from you.
-->Reverse the motion and bring the dumbbells back to the starting position, rotating your palms back to the initial position.</string>
+\n->Start with dumbbells at shoulder height, palms facing your body.
+\n->As you press the dumbbells upward, rotate your palms to face forward.
+\n->At the top of the movement, your arms should be fully extended, and palms facing away from you.
+\n->Reverse the motion and bring the dumbbells back to the starting position, rotating your palms back to the initial position.</string>
     <string name="itm_shoulder_w4">4) Bent-Over Reverse Flyes: 3 sets of 12-15 reps
-->Bend forward at the hips, keeping your back flat and knees slightly bent.
-->Hold a dumbbell in each hand with your palms facing each other.
-->Raise the dumbbells out to the sides until your arms are parallel to the ground.
-->Lower the dumbbells back down with control.</string>
+\n->Bend forward at the hips, keeping your back flat and knees slightly bent.
+\n->Hold a dumbbell in each hand with your palms facing each other.
+\n->Raise the dumbbells out to the sides until your arms are parallel to the ground.
+\n->Lower the dumbbells back down with control.</string>
     <string name="itm_shoulder_w5">5) Upright Rows: 3 sets of 10-12 reps
-->Stand with your feet shoulder-width apart, holding a barbell with an overhand grip.
-->Lift the barbell towards your chin, keeping it close to your body.
-->Lower the barbell back down to your thighs with control.</string>
+\n->Stand with your feet shoulder-width apart, holding a barbell with an overhand grip.
+\n->Lift the barbell towards your chin, keeping it close to your body.
+\n->Lower the barbell back down to your thighs with control.</string>
     <string name="itm_shoulder_w6">6) Cable Face Pulls: 3 sets of 12-15 reps
-->Set the cable machine to shoulder height with a rope attachment.
-->Stand facing the machine and grab the ropes with an overhand grip.
-->Pull the ropes towards your face, squeezing your shoulder blades together.
-->Slowly release the ropes back to the starting position.</string>
+\n->Set the cable machine to shoulder height with a rope attachment.
+\n->Stand facing the machine and grab the ropes with an overhand grip.
+\n->Pull the ropes towards your face, squeezing your shoulder blades together.
+\n->Slowly release the ropes back to the starting position.</string>
 
 
     <string name="itm_back_w1">1) Deadlifts: 4 sets of 6-8 reps
-->Stand with your feet shoulder-width apart, and a barbell in front of you.
-->Bend at your hips and knees to grip the barbell with an overhand grip.
-->Keep your back flat and chest up as you lift the barbell by extending your hips and knees.
-->Lower the barbell back down with control.</string>
+\n->Stand with your feet shoulder-width apart, and a barbell in front of you.
+\n->Bend at your hips and knees to grip the barbell with an overhand grip.
+\n->Keep your back flat and chest up as you lift the barbell by extending your hips and knees.
+\n->Lower the barbell back down with control.</string>
     <string name="itm_back_w2">2) Pull-Ups or Chin-Ups: 4 sets of 8-10 reps
-->Use a pull-up bar with an overhand grip for pull-ups or an underhand grip for chin-ups.
-->Hang from the bar with your arms fully extended and pull your body up until your chin is above the bar.
-->Lower yourself back down with control.</string>
+\n->Use a pull-up bar with an overhand grip for pull-ups or an underhand grip for chin-ups.
+\n->Hang from the bar with your arms fully extended and pull your body up until your chin is above the bar.
+\n->Lower yourself back down with control.</string>
     <string name="itm_back_w3">3) Bent Over Barbell Rows: 3 sets of 10-12 reps
-->Stand with your feet shoulder-width apart and bend forward at the hips, keeping your back flat.
-->Grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-->Pull the barbell up towards your lower chest, squeezing your shoulder blades together.
-->Lower the barbell back down with control.</string>
+\n->Stand with your feet shoulder-width apart and bend forward at the hips, keeping your back flat.
+\n->Grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
+\n->Pull the barbell up towards your lower chest, squeezing your shoulder blades together.
+\n->Lower the barbell back down with control.</string>
     <string name="itm_back_w4">4) Seated Cable Rows: 3 sets of 10-12 reps
-->Sit at a cable machine with your knees slightly bent and feet against the footrests.
-->Grasp the cable handles with an overhand grip.
-->Pull the handles towards your torso, squeezing your shoulder blades together.
-->Extend your arms back out with control.</string>
+\n->Sit at a cable machine with your knees slightly bent and feet against the footrests.
+\n->Grasp the cable handles with an overhand grip.
+\n->Pull the handles towards your torso, squeezing your shoulder blades together.
+\n->Extend your arms back out with control.</string>
     <string name="itm_back_w5">5) Dumbbell Pullovers: 3 sets of 10-12 reps
-->Lie on a bench with your head and upper back supported.
-->Hold a dumbbell with both hands above your chest, arms extended.
-->Lower the dumbbell behind your head until you feel a stretch in your lats.
-->Raise the dumbbell back to the starting position.</string>
+\n->Lie on a bench with your head and upper back supported.
+\n->Hold a dumbbell with both hands above your chest, arms extended.
+\n->Lower the dumbbell behind your head until you feel a stretch in your lats.
+\n->Raise the dumbbell back to the starting position.</string>
     <string name="itm_back_w6">6) T-Bar Rows: 3 sets of 10-12 reps
-->Place one end of a barbell into a landmine attachment or corner of a room.
-->Load the other end with weight plates.
-->Straddle the barbell and bend at your hips to grip it with both hands.
-->Pull the barbell towards your chest, squeezing your back muscles.
-->Lower the barbell back down with control.</string>
+\n->Place one end of a barbell into a landmine attachment or corner of a room.
+\n->Load the other end with weight plates.
+\n->Straddle the barbell and bend at your hips to grip it with both hands.
+\n->Pull the barbell towards your chest, squeezing your back muscles.
+\n->Lower the barbell back down with control.</string>
 
 
     <string name="itm_abs_w1">1) Hanging Leg Raises: 4 sets of 10-12 reps
-->Hang from a pull-up bar with your arms extended and your legs straight.
-->Engage your core and lift your legs up towards the ceiling, avoiding swinging.
-->Lower your legs back down with control.</string>
+\n->Hang from a pull-up bar with your arms extended and your legs straight.
+\n->Engage your core and lift your legs up towards the ceiling, avoiding swinging.
+\n->Lower your legs back down with control.</string>
     <string name="itm_abs_w2">2) Russian Twists (with weight): 4 sets of 20-25 reps (10-12 each side)
-->Sit on the ground with your knees bent and feet flat on the floor.
-->Lean back slightly while keeping your back straight and core engaged.
-->Hold a weight or medicine ball with both hands and rotate your torso from side to side.</string>
+\n->Sit on the ground with your knees bent and feet flat on the floor.
+\n->Lean back slightly while keeping your back straight and core engaged.
+\n->Hold a weight or medicine ball with both hands and rotate your torso from side to side.</string>
     <string name="itm_abs_w3">3) Cable Crunches: 3 sets of 12-15 reps
-->Kneel in front of a cable machine with the rope attachment overhead.
-->Hold the rope with both hands and bring it down towards your knees by flexing your abs.
-->Slowly return to the starting position.</string>
+\n->Kneel in front of a cable machine with the rope attachment overhead.
+\n->Hold the rope with both hands and bring it down towards your knees by flexing your abs.
+\n->Slowly return to the starting position.</string>
     <string name="itm_abs_w4">4) Plank with Shoulder Taps: 3 sets of 12-15 taps per side
-->Get into a plank position with your hands directly under your shoulders and feet hip-width apart.
-->While maintaining a stable core, tap your right hand to your left shoulder.
-->Return to the plank position and then tap your left hand to your right shoulder.</string>
+\n->Get into a plank position with your hands directly under your shoulders and feet hip-width apart.
+\n->While maintaining a stable core, tap your right hand to your left shoulder.
+\n->Return to the plank position and then tap your left hand to your right shoulder.</string>
     <string name="itm_abs_w5">5) Bicycle Crunches: 3 sets of 20-30 reps (10-15 each side)
-->Lie on your back with your hands behind your head and legs lifted off the ground.
-->Bring your right elbow towards your left knee while extending your right leg.
-->Alternate sides by bringing your left elbow towards your right knee while extending your left leg.</string>
+\n->Lie on your back with your hands behind your head and legs lifted off the ground.
+\n->Bring your right elbow towards your left knee while extending your right leg.
+\n->Alternate sides by bringing your left elbow towards your right knee while extending your left leg.</string>
     <string name="itm_abs_w6">6) Swiss Ball Rollouts: 3 sets of 10-12 reps
-->Kneel in front of a Swiss ball with your hands resting on the ball.
-->Roll the ball away from you by extending your arms, keeping your core tight.
-->Roll the ball back towards you to the starting position.</string>
+\n->Kneel in front of a Swiss ball with your hands resting on the ball.
+\n->Roll the ball away from you by extending your arms, keeping your core tight.
+\n->Roll the ball back towards you to the starting position.</string>
     <string name="itm_abs_w7">7) Dragon Flags: 3 sets of 6-8 reps
-->Lie on a flat bench and hold onto the edges with both hands.
-->Lift your legs and lower back off the bench, keeping your body in a straight line.
-->Slowly lower your legs towards the ground, engaging your abs to control the movement.
-->Use your core to lift your legs back to the starting position.</string>
+\n->Lie on a flat bench and hold onto the edges with both hands.
+\n->Lift your legs and lower back off the bench, keeping your body in a straight line.
+\n->Slowly lower your legs towards the ground, engaging your abs to control the movement.
+\n->Use your core to lift your legs back to the starting position.</string>
 
 
     <string name="itm_legs_w1">1) Back Squats: 4 sets of 6-8 reps
-->Stand with your feet shoulder-width apart and the barbell resting on your upper back.
-->Lower your body by bending at the hips and knees, as if sitting back into a chair.
-->Keep your chest up and knees in line with your toes.
-->Push through your heels to return to the starting position.</string>
+\n->Stand with your feet shoulder-width apart and the barbell resting on your upper back.
+\n->Lower your body by bending at the hips and knees, as if sitting back into a chair.
+\n->Keep your chest up and knees in line with your toes.
+\n->Push through your heels to return to the starting position.</string>
     <string name="itm_legs_w2">2) Romanian Deadlifts: 4 sets of 8-10 reps
-->Hold a barbell with an overhand grip, hands shoulder-width apart.
-->Stand with your feet hip-width apart and a slight bend in your knees.
-->Hinge at your hips while keeping your back flat, lowering the barbell towards the ground.
-->Engage your hamstrings and glutes to bring your torso back to an upright position.</string>
+\n->Hold a barbell with an overhand grip, hands shoulder-width apart.
+\n->Stand with your feet hip-width apart and a slight bend in your knees.
+\n->Hinge at your hips while keeping your back flat, lowering the barbell towards the ground.
+\n->Engage your hamstrings and glutes to bring your torso back to an upright position.</string>
     <string name="itm_legs_w3">3) Bulgarian Split Squats: 3 sets of 10-12 reps per leg
-->Stand facing away from a bench or elevated surface.
-->Place one foot on the bench behind you and the other foot firmly on the ground.
-->Lower your body into a lunge position, ensuring your front knee stays in line with your toes.
-->Push through your front heel to return to the starting position.</string>
+\n->Stand facing away from a bench or elevated surface.
+\n->Place one foot on the bench behind you and the other foot firmly on the ground.
+\n->Lower your body into a lunge position, ensuring your front knee stays in line with your toes.
+\n->Push through your front heel to return to the starting position.</string>
     <string name="itm_legs_w4">4) Leg Press: 3 sets of 10-12 reps
-->Sit on a leg press machine with your feet shoulder-width apart on the platform.
-->Lower the platform towards your chest by bending your knees.
-->Push the platform back up to the starting position.</string>
+\n->Sit on a leg press machine with your feet shoulder-width apart on the platform.
+\n->Lower the platform towards your chest by bending your knees.
+\n->Push the platform back up to the starting position.</string>
     <string name="itm_legs_w5">5) Walking Lunges: 3 sets of 12-15 steps per leg
-->Stand with your feet together.
-->Take a step forward with one foot and lower your body into a lunge position.
-->Push off your front foot to bring your back foot forward into the next lunge.
-->Continue walking lunges for the desired number of steps.</string>
+\n->Stand with your feet together.
+\n->Take a step forward with one foot and lower your body into a lunge position.
+\n->Push off your front foot to bring your back foot forward into the next lunge.
+\n->Continue walking lunges for the desired number of steps.</string>
     <string name="itm_legs_w6">6) Calf Raises: 3 sets of 15-20 reps
-->Stand with your feet shoulder-width apart on the edge of a step or platform.
-->Rise up onto the balls of your feet, lifting your heels as high as possible.
-->Lower your heels back down to the starting position.</string>
+\n->Stand with your feet shoulder-width apart on the edge of a step or platform.
+\n->Rise up onto the balls of your feet, lifting your heels as high as possible.
+\n->Lower your heels back down to the starting position.</string>
 
 
     <string name="adv_chest_w1">1) Barbell Bench Press: 5 sets of 5 reps
-->Lie flat on a bench with your feet firmly planted on the ground.
-->Grip the barbell with hands slightly wider than shoulder-width apart.
-->Lower the barbell to your chest, then press it back up explosively.
-->Use challenging weights for each set.</string>
+\n->Lie flat on a bench with your feet firmly planted on the ground.
+\n->Grip the barbell with hands slightly wider than shoulder-width apart.
+\n->Lower the barbell to your chest, then press it back up explosively.
+\n->Use challenging weights for each set.</string>
     <string name="adv_chest_w2">2) Incline Dumbbell Bench Press: 4 sets of 6-8 reps
-->Set an adjustable bench to a 30-45 degree incline.
-->Hold a dumbbell in each hand at shoulder level.
-->Lower the dumbbells to your shoulders, then press them up powerfully.</string>
+\n->Set an adjustable bench to a 30-45 degree incline.
+\n->Hold a dumbbell in each hand at shoulder level.
+\n->Lower the dumbbells to your shoulders, then press them up powerfully.</string>
     <string name="adv_chest_w3">3) Dips (Weighted if possible): 4 sets of 8-10 reps
-->Use parallel bars or dip bars.
-->Lower your body until your elbows are bent at 90 degrees or slightly below.
-->Push back up explosively to the starting position.</string>
+\n->Use parallel bars or dip bars.
+\n->Lower your body until your elbows are bent at 90 degrees or slightly below.
+\n->Push back up explosively to the starting position.</string>
     <string name="adv_chest_w4">4) Cable Crossovers: 3 sets of 10-12 reps
-->Set the cable machine at chest height with handles attached.
-->Stand in the center, one foot in front of the other for stability.
-->Cross one hand over the other in a hugging motion, feeling your chest muscles contract.
-->Return to the starting position with control.</string>
+\n->Set the cable machine at chest height with handles attached.
+\n->Stand in the center, one foot in front of the other for stability.
+\n->Cross one hand over the other in a hugging motion, feeling your chest muscles contract.
+\n->Return to the starting position with control.</string>
     <string name="adv_chest_w5">5) Dumbbell Flyes: 3 sets of 10-12 reps
-->Lie flat on a bench with a dumbbell in each hand, palms facing each other.
-->Lower the dumbbells out to your sides in a wide arc, feeling a stretch in your chest.
-->Bring the dumbbells back up to the starting position, squeezing your chest muscles.</string>
+\n->Lie flat on a bench with a dumbbell in each hand, palms facing each other.
+\n->Lower the dumbbells out to your sides in a wide arc, feeling a stretch in your chest.
+\n->Bring the dumbbells back up to the starting position, squeezing your chest muscles.</string>
     <string name="adv_chest_w6">6) Push-Ups (Weighted if possible): 3 sets of 12-15 reps
-->Get into a standard push-up position with your hands slightly wider than shoulder-width apart.
-->Place a weight plate or a weighted vest on your back.
-->Lower your chest towards the ground, then push back up powerfully.</string>
+\n->Get into a standard push-up position with your hands slightly wider than shoulder-width apart.
+\n->Place a weight plate or a weighted vest on your back.
+\n->Lower your chest towards the ground, then push back up powerfully.</string>
     <string name="adv_chest_w7">7) Plyometric Push-Ups: 3 sets of 8-10 reps
-->Get into a standard push-up position with your hands slightly wider than shoulder-width apart.
-->Lower your chest towards the ground, then explosively push off the ground to lift your hands off momentarily.
-->Land softly and immediately go into the next repetition.</string>
+\n->Get into a standard push-up position with your hands slightly wider than shoulder-width apart.
+\n->Lower your chest towards the ground, then explosively push off the ground to lift your hands off momentarily.
+\n->Land softly and immediately go into the next repetition.</string>
 
 
     <string name="adv_bic_w1">1) Barbell Bicep Curls (With Cheat Reps): 5 sets of 6-8 reps
-->Stand with your feet shoulder-width apart, holding a barbell with an underhand grip.
-->Keep your elbows slightly forward and curl the barbell up towards your shoulders.
-->For the last 1-2 reps of each set, you can use controlled "cheat reps" to lift the weight with a bit of momentum to further challenge the muscles.</string>
+\n->Stand with your feet shoulder-width apart, holding a barbell with an underhand grip.
+\n->Keep your elbows slightly forward and curl the barbell up towards your shoulders.
+\n->For the last 1-2 reps of each set, you can use controlled "cheat reps" to lift the weight with a bit of momentum to further challenge the muscles.</string>
     <string name="adv_bic_w2">2) Alternate Dumbbell Hammer Curls: 4 sets of 8-10 reps per arm
-->Stand with your feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip (palms facing each other).
-->Curl one dumbbell up towards your shoulder while keeping the other arm down.
-->Alternate arms with each repetition.</string>
+\n->Stand with your feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip (palms facing each other).
+\n->Curl one dumbbell up towards your shoulder while keeping the other arm down.
+\n->Alternate arms with each repetition.</string>
     <string name="adv_bic_w3">3) Preacher Curls (with EZ bar or dumbbells): 4 sets of 8-10 reps
-->Sit on a preacher curl bench or use an incline bench with an EZ bar or dumbbells.
-->Place your upper arms against the pad and curl the weight up towards your shoulders.
-->Focus on squeezing the biceps at the top of the movement.</string>
+\n->Sit on a preacher curl bench or use an incline bench with an EZ bar or dumbbells.
+\n->Place your upper arms against the pad and curl the weight up towards your shoulders.
+\n->Focus on squeezing the biceps at the top of the movement.</string>
     <string name="adv_bic_w4">4) Concentration Curls: 3 sets of 10-12 reps per arm
-->Sit on a bench, holding a dumbbell in one hand.
-->Rest your elbow on the inside of your thigh, letting the dumbbell hang down.
-->Curl the dumbbell up towards your shoulder, keeping your upper arm stationary.
-->Lower the dumbbell back down with control.</string>
+\n->Sit on a bench, holding a dumbbell in one hand.
+\n->Rest your elbow on the inside of your thigh, letting the dumbbell hang down.
+\n->Curl the dumbbell up towards your shoulder, keeping your upper arm stationary.
+\n->Lower the dumbbell back down with control.</string>
     <string name="adv_bic_w5">5) Spider Curls: 3 sets of 10-12 reps
-->Lie face down on an incline bench, with your chest and stomach supported.
-->Allow your arms to hang straight down and curl the dumbbells up towards your shoulders.
-->This exercise emphasizes the long head of the biceps.</string>
+\n->Lie face down on an incline bench, with your chest and stomach supported.
+\n->Allow your arms to hang straight down and curl the dumbbells up towards your shoulders.
+\n->This exercise emphasizes the long head of the biceps.</string>
     <string name="adv_bic_w6">6) Cable Bicep Curls (With Drop Sets): 3 sets of 8-10 reps (each arm)
-->Set the cable machine with a straight bar or rope attachment at the bottom position.
-->Perform regular cable curls with challenging weight for 8-10 reps per arm.
-->Immediately after completing the set, lower the weight and perform 8-10 more reps per arm with lighter resistance.</string>
+\n->Set the cable machine with a straight bar or rope attachment at the bottom position.
+\n->Perform regular cable curls with challenging weight for 8-10 reps per arm.
+\n->Immediately after completing the set, lower the weight and perform 8-10 more reps per arm with lighter resistance.</string>
 
 
     <string name="adv_tricep_w1">1) Close Grip Bench Press: 5 sets of 5 reps
-->Lie flat on a bench with your hands placed close together on the barbell (about shoulder-width apart).
-->Lower the barbell to your chest, keeping your elbows close to your body.
-->Push the barbell back up explosively to the starting position.</string>
+\n->Lie flat on a bench with your hands placed close together on the barbell (about shoulder-width apart).
+\n->Lower the barbell to your chest, keeping your elbows close to your body.
+\n->Push the barbell back up explosively to the starting position.</string>
     <string name="adv_tricep_w2">2) Weighted Dips: 4 sets of 6-8 reps
-->Use parallel bars or dip bars.
-->Attach a weight belt or use a weighted vest for added resistance.
-->Lower your body until your elbows are bent at 90 degrees or slightly below.
-->Push back up powerfully to the starting position.</string>
+\n->Use parallel bars or dip bars.
+\n->Attach a weight belt or use a weighted vest for added resistance.
+\n->Lower your body until your elbows are bent at 90 degrees or slightly below.
+\n->Push back up powerfully to the starting position.</string>
     <string name="adv_tricep_w3">Skull Crushers (Lying Triceps Extensions): 4 sets of 8-10 reps
-->Lie on a flat bench with a barbell or EZ bar extended over your chest.
-->Lower the weight towards your forehead by bending your elbows.
-->Press the weight back up, extending your arms fully.</string>
+\n->Lie on a flat bench with a barbell or EZ bar extended over your chest.
+\n->Lower the weight towards your forehead by bending your elbows.
+\n->Press the weight back up, extending your arms fully.</string>
     <string name="adv_tricep_w4">4) Tricep Rope Pushdowns (With Drop Sets): 3 sets of 8-10 reps
-->Set the cable machine with a rope attachment at the high position.
-->Perform tricep pushdowns with challenging weight for 8-10 reps.
-->Immediately after completing the set, lower the weight and perform 8-10 more reps with lighter resistance.</string>
+\n->Set the cable machine with a rope attachment at the high position.
+\n->Perform tricep pushdowns with challenging weight for 8-10 reps.
+\n->Immediately after completing the set, lower the weight and perform 8-10 more reps with lighter resistance.</string>
     <string name="adv_tricep_w5">5) Overhead Dumbbell Tricep Extension: 3 sets of 10-12 reps
-->Stand or sit on a bench with a dumbbell in both hands overhead.
-->Lower the dumbbell behind your head, bending your elbows.
-->Extend your arms back up to the starting position.</string>
+\n->Stand or sit on a bench with a dumbbell in both hands overhead.
+\n->Lower the dumbbell behind your head, bending your elbows.
+\n->Extend your arms back up to the starting position.</string>
     <string name="adv_tricep_w6">6) Diamond Push-Ups: 3 sets of 10-12 reps
-->Get into a push-up position with your hands close together, forming a diamond shape with your thumbs and index fingers.
-->Lower your chest towards the diamond shape while keeping your elbows close to your body.
-->Push back up powerfully to the starting position.</string>
+\n->Get into a push-up position with your hands close together, forming a diamond shape with your thumbs and index fingers.
+\n->Lower your chest towards the diamond shape while keeping your elbows close to your body.
+\n->Push back up powerfully to the starting position.</string>
     <string name="adv_tricep_w7">7) Tricep Dips (Bodyweight): Burnout set
-->Use parallel bars or dip bars.
-->Perform as many bodyweight dips as possible until you reach muscle failure.</string>
+\n->Use parallel bars or dip bars.
+\n->Perform as many bodyweight dips as possible until you reach muscle failure.</string>
 
 
     <string name="adv_shoulder_w1">1) Barbell Overhead Press: 5 sets of 5 reps
-->Stand with your feet shoulder-width apart and the barbell resting on your upper chest with an overhand grip.
-->Press the barbell overhead until your arms are fully extended.
-->Lower the barbell back down to your upper chest with control.</string>
+\n->Stand with your feet shoulder-width apart and the barbell resting on your upper chest with an overhand grip.
+\n->Press the barbell overhead until your arms are fully extended.
+\n->Lower the barbell back down to your upper chest with control.</string>
     <string name="adv_shoulder_w2">2) Arnold Press: 4 sets of 8-10 reps
-->Start with dumbbells at shoulder height, palms facing your body.
-->As you press the dumbbells upward, rotate your palms to face forward.
-->At the top of the movement, your arms should be fully extended, and palms facing away from you.
-->Reverse the motion and bring the dumbbells back to shoulder height, rotating your palms back to the initial position.</string>
+\n->Start with dumbbells at shoulder height, palms facing your body.
+\n->As you press the dumbbells upward, rotate your palms to face forward.
+\n->At the top of the movement, your arms should be fully extended, and palms facing away from you.
+\n->Reverse the motion and bring the dumbbells back to shoulder height, rotating your palms back to the initial position.</string>
     <string name="adv_shoulder_w3">3) Lateral Raises (With Drop Sets): 4 sets of 10-12 reps
-->Stand with your feet shoulder-width apart, holding dumbbells at your sides.
-->Raise the dumbbells out to your sides until they reach shoulder height.
-->Immediately after completing the set, lower the weight and perform 8-10 more reps with lighter dumbbells.</string>
+\n->Stand with your feet shoulder-width apart, holding dumbbells at your sides.
+\n->Raise the dumbbells out to your sides until they reach shoulder height.
+\n->Immediately after completing the set, lower the weight and perform 8-10 more reps with lighter dumbbells.</string>
     <string name="adv_shoulder_w4">4) Bent Over Dumbbell Reverse Flyes: 3 sets of 12-15 reps
-->Bend forward at the hips, keeping your back flat and knees slightly bent.
-->Hold a dumbbell in each hand with your palms facing each other.
-->Raise the dumbbells out to the sides until your arms are parallel to the ground.
-->Lower the dumbbells back down with control.</string>
+\n->Bend forward at the hips, keeping your back flat and knees slightly bent.
+\n->Hold a dumbbell in each hand with your palms facing each other.
+\n->Raise the dumbbells out to the sides until your arms are parallel to the ground.
+\n->Lower the dumbbells back down with control.</string>
     <string name="adv_shoulder_w5">5) Upright Rows (With EZ bar or Dumbbells): 3 sets of 10-12 reps
-->Stand with your feet shoulder-width apart, holding an EZ bar or dumbbells with an overhand grip.
-->Lift the barbell or dumbbells towards your chin, keeping them close to your body.
-->Lower the barbell or dumbbells back down to your thighs with control.</string>
+\n->Stand with your feet shoulder-width apart, holding an EZ bar or dumbbells with an overhand grip.
+\n->Lift the barbell or dumbbells towards your chin, keeping them close to your body.
+\n->Lower the barbell or dumbbells back down to your thighs with control.</string>
     <string name="adv_shoulder_w6">6) Face Pulls: 3 sets of 12-15 reps
-->Set the cable machine to shoulder height with a rope attachment.
-->Stand facing the machine and grab the ropes with an overhand grip.
-->Pull the ropes towards your face, squeezing your shoulder blades together.
-->Slowly release the ropes back to the starting position.</string>
+\n->Set the cable machine to shoulder height with a rope attachment.
+\n->Stand facing the machine and grab the ropes with an overhand grip.
+\n->Pull the ropes towards your face, squeezing your shoulder blades together.
+\n->Slowly release the ropes back to the starting position.</string>
 
 
     <string name="adv_back_w1">1) Deadlifts: 5 sets of 5 reps
-->Stand with your feet shoulder-width apart and a barbell on the ground in front of you.
-->Bend at your hips and knees to grip the barbell with an overhand grip.
-->Keep your back flat and chest up as you lift the barbell by extending your hips and knees.
-->Lower the barbell back down to the ground with control.</string>
+\n->Stand with your feet shoulder-width apart and a barbell on the ground in front of you.
+\n->Bend at your hips and knees to grip the barbell with an overhand grip.
+\n->Keep your back flat and chest up as you lift the barbell by extending your hips and knees.
+\n->Lower the barbell back down to the ground with control.</string>
     <string name="adv_back_w2">2) Pull-Ups or Chin-Ups: 4 sets of 8-10 reps
-->Use a pull-up bar with an overhand grip for pull-ups or an underhand grip for chin-ups.
-->Hang from the bar with your arms fully extended and pull your body up until your chin is above the bar.
-->Lower yourself back down with control.</string>
+\n->Use a pull-up bar with an overhand grip for pull-ups or an underhand grip for chin-ups.
+\n->Hang from the bar with your arms fully extended and pull your body up until your chin is above the bar.
+\n->Lower yourself back down with control.</string>
     <string name="adv_back_w3">3) Bent Over Barbell Rows: 4 sets of 8-10 reps
-->Stand with your feet shoulder-width apart and bend forward at the hips, keeping your back flat.
-->Grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
-->Pull the barbell up towards your lower chest, squeezing your shoulder blades together.
-->Lower the barbell back down with control.</string>
+\n->Stand with your feet shoulder-width apart and bend forward at the hips, keeping your back flat.
+\n->Grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.
+\n->Pull the barbell up towards your lower chest, squeezing your shoulder blades together.
+\n->Lower the barbell back down with control.</string>
     <string name="adv_back_w4">4) T-Bar Rows: 3 sets of 10-12 reps
-->Place one end of a barbell into a landmine attachment or corner of a room.
-->Load the other end with weight plates.
-->Straddle the barbell and bend at your hips to grip it with both hands.
-->Pull the barbell towards your chest, squeezing your back muscles.
-->Lower the barbell back down with control.</string>
+\n->Place one end of a barbell into a landmine attachment or corner of a room.
+\n->Load the other end with weight plates.
+\n->Straddle the barbell and bend at your hips to grip it with both hands.
+\n->Pull the barbell towards your chest, squeezing your back muscles.
+\n->Lower the barbell back down with control.</string>
     <string name="adv_back_w5">5) Single-Arm Dumbbell Rows: 3 sets of 10-12 reps per arm
-->Place your left knee and left hand on a flat bench, keeping your back parallel to the ground.
-->Hold a dumbbell in your right hand with your arm fully extended.
-->Pull the dumbbell up towards your torso, squeezing your back muscles.
-->Lower the dumbbell back down with control and repeat on the other side.</string>
+\n->Place your left knee and left hand on a flat bench, keeping your back parallel to the ground.
+\n->Hold a dumbbell in your right hand with your arm fully extended.
+\n->Pull the dumbbell up towards your torso, squeezing your back muscles.
+\n->Lower the dumbbell back down with control and repeat on the other side.</string>
     <string name="adv_back_w6">6) Hyperextensions: 3 sets of 12-15 reps
-->Lie face down on a hyperextension bench with your hips just over the edge.
-->Cross your arms over your chest and lower your upper body towards the ground.
-->Lift your upper body back up, engaging your lower back muscles.</string>
+\n->Lie face down on a hyperextension bench with your hips just over the edge.
+\n->Cross your arms over your chest and lower your upper body towards the ground.
+\n->Lift your upper body back up, engaging your lower back muscles.</string>
 
 
     <string name="adv_abs_w1">1) Hanging Leg Raises: 4 sets of 10-12 reps
-->Hang from a pull-up bar with your arms fully extended.
-->Engage your core and lift your legs up towards the ceiling, avoiding swinging.
-->Lower your legs back down with control.</string>
+\n->Hang from a pull-up bar with your arms fully extended.
+\n->Engage your core and lift your legs up towards the ceiling, avoiding swinging.
+\n->Lower your legs back down with control.</string>
     <string name="adv_abs_w2">2) Dragon Flags: 4 sets of 6-8 reps
-->Lie on a flat bench and hold onto the edges with both hands.
-->Lift your legs and lower back off the bench, keeping your body in a straight line.
-->Slowly lower your legs towards the ground, engaging your abs to control the movement.
-->Use your core to lift your legs back to the starting position.</string>
+\n->Lie on a flat bench and hold onto the edges with both hands.
+\n->Lift your legs and lower back off the bench, keeping your body in a straight line.
+\n->Slowly lower your legs towards the ground, engaging your abs to control the movement.
+\n->Use your core to lift your legs back to the starting position.</string>
     <string name="adv_abs_w3">3) Cable Woodchoppers: 3 sets of 10-12 reps per side
-->Set the cable machine to a high position with a rope or handle attachment.
-->Stand with your side facing the machine and grab the handle with both hands.
-->Pull the handle diagonally across your body and down towards your opposite hip, rotating your torso.
-->Slowly return to the starting position and repeat on the other side.</string>
+\n->Set the cable machine to a high position with a rope or handle attachment.
+\n->Stand with your side facing the machine and grab the handle with both hands.
+\n->Pull the handle diagonally across your body and down towards your opposite hip, rotating your torso.
+\n->Slowly return to the starting position and repeat on the other side.</string>
     <string name="adv_abs_w4">4) Swiss Ball Rollouts: 3 sets of 10-12 reps
-->Kneel in front of a Swiss ball with your hands resting on the ball.
-->Roll the ball away from you by extending your arms, keeping your core tight.
-->Roll the ball back towards you to the starting position.</string>
+\n->Kneel in front of a Swiss ball with your hands resting on the ball.
+\n->Roll the ball away from you by extending your arms, keeping your core tight.
+\n->Roll the ball back towards you to the starting position.</string>
     <string name="adv_abs_w5">5) Russian Twists (with weight): 3 sets of 20-25 reps (10-12 each side)
-->Sit on the ground with your knees bent and feet flat on the floor.
-->Lean back slightly while keeping your back straight and core engaged.
-->Hold a weight or medicine ball with both hands and rotate your torso from side to side.</string>
+\n->Sit on the ground with your knees bent and feet flat on the floor.
+\n->Lean back slightly while keeping your back straight and core engaged.
+\n->Hold a weight or medicine ball with both hands and rotate your torso from side to side.</string>
     <string name="adv_abs_w6">6) Plank to Pike: 3 sets of 10-12 reps
-->Start in a plank position with your forearms on the ground.
-->Push your hips up towards the ceiling, forming an inverted V shape with your body.
-->Return to the plank position and repeat.</string>
+\n->Start in a plank position with your forearms on the ground.
+\n->Push your hips up towards the ceiling, forming an inverted V shape with your body.
+\n->Return to the plank position and repeat.</string>
 
 
     <string name="adv_legs_w1">1) Barbell Back Squats: 5 sets of 5 reps
-->Stand with your feet shoulder-width apart and a barbell on your upper back.
-->Lower your body by bending at the hips and knees, as if sitting back into a chair.
-->Keep your chest up and knees in line with your toes.
-->Push through your heels to return to the starting position.</string>
+\n->Stand with your feet shoulder-width apart and a barbell on your upper back.
+\n->Lower your body by bending at the hips and knees, as if sitting back into a chair.
+\n->Keep your chest up and knees in line with your toes.
+\n->Push through your heels to return to the starting position.</string>
     <string name="adv_legs_w2">2) Romanian Deadlifts: 4 sets of 8 reps
-->Hold a barbell with an overhand grip, hands shoulder-width apart.
-->Stand with your feet hip-width apart and a slight bend in your knees.
-->Hinge at your hips while keeping your back flat, lowering the barbell towards the ground.
-->Engage your hamstrings and glutes to bring your torso back to an upright position.</string>
+\n->Hold a barbell with an overhand grip, hands shoulder-width apart.
+\n->Stand with your feet hip-width apart and a slight bend in your knees.
+\n->Hinge at your hips while keeping your back flat, lowering the barbell towards the ground.
+\n->Engage your hamstrings and glutes to bring your torso back to an upright position.</string>
     <string name="adv_legs_w3">3) Bulgarian Split Squats: 4 sets of 10 reps per leg
-->Stand facing away from a bench or elevated surface.
-->Place one foot on the bench behind you and the other foot firmly on the ground.
-->Lower your body into a lunge position, ensuring your front knee stays in line with your toes.
-->Push through your front heel to return to the starting position.</string>
+\n->Stand facing away from a bench or elevated surface.
+\n->Place one foot on the bench behind you and the other foot firmly on the ground.
+\n->Lower your body into a lunge position, ensuring your front knee stays in line with your toes.
+\n->Push through your front heel to return to the starting position.</string>
     <string name="adv_legs_w4">4) Leg Press: 3 sets of 12 reps
-->Sit on a leg press machine with your feet shoulder-width apart on the platform.
-->Lower the platform towards your chest by bending your knees.
-->Push the platform back up to the starting position.</string>
+\n->Sit on a leg press machine with your feet shoulder-width apart on the platform.
+\n->Lower the platform towards your chest by bending your knees.
+\n->Push the platform back up to the starting position.</string>
     <string name="adv_legs_w5">5) Walking Lunges: 3 sets of 12 steps per leg
-->Stand with your feet together.
-->Take a step forward with one foot and lower your body into a lunge position.
-->Push off your front foot to bring your back foot forward into the next lunge.
-->Continue walking lunges for the desired number of steps.</string>
+\n->Stand with your feet together.
+\n->Take a step forward with one foot and lower your body into a lunge position.
+\n->Push off your front foot to bring your back foot forward into the next lunge.
+\n->Continue walking lunges for the desired number of steps.</string>
     <string name="adv_legs_w6">6) Seated Calf Raises: 3 sets of 15-20 reps
-->Sit on a calf raise machine with your knees bent and feet against the footrests.
-->Raise your heels as high as possible, then lower them back down.</string>
+\n->Sit on a calf raise machine with your knees bent and feet against the footrests.
+\n->Raise your heels as high as possible, then lower them back down.</string>
     <string name="adv_legs_w7">7) Sled Push or Sled Pull: 3 sets
-->Load a sled with weights and either push it for a set distance or attach a harness and pull it backward for a set distance.
-->This exercise engages various leg muscles while providing a great cardio and strength challenge.</string>
+\n->Load a sled with weights and either push it for a set distance or attach a harness and pull it backward for a set distance.
+\n->This exercise engages various leg muscles while providing a great cardio and strength challenge.</string>
 
 
-    <string name="diet_wg_wg1">1) Caloric Surplus: To gain weight, you need to consume more calories than your body burns. Calculate your daily caloric needs using an online calculator and aim to consume around 300-500 calories above that number.</string>
+    <string name="diet_wg_wg1">1) Caloric Surplus: To gain weight, you need to consume more calories than your body burns.\nCalculate your daily caloric needs using an online calculator and aim to consume around 300-500 calories above that number.</string>
     <string name="diet_wg_wg2">2) Macronutrients Balance:
-        Proteins: They are essential for muscle repair and growth. Aim for about 1.2 to 1.5 grams of protein per pound of body weight. Good sources include chicken, turkey, lean beef, fish, eggs, dairy, legumes, and tofu.
-        Carbohydrates: These provide energy for workouts and daily activities. Choose complex carbohydrates like whole grains, brown rice, quinoa, sweet potatoes, oats, and fruits.
-        Fats: Healthy fats are calorie-dense and beneficial for overall health. Incorporate sources like avocados, nuts, seeds, olive oil, and fatty fish.</string>
-    <string name="diet_wg_wg3">3) Regular Meals and Snacks: Aim to eat 3 main meals and 2-3 snacks between them throughout the day. This helps increase calorie intake.</string>
-    <string name="diet_wg_wg4">4) Protein-rich Breakfast: Start your day with a protein-rich breakfast. It could be eggs, Greek yogurt with nuts and fruits, or a protein smoothie.</string>
+        \nProteins: They are essential for muscle repair and growth. Aim for about 1.2 to 1.5 grams of protein per pound of body weight. Good sources include chicken, turkey, lean beef, fish, eggs, dairy, legumes, and tofu.
+        \nCarbohydrates: These provide energy for workouts and daily activities. Choose complex carbohydrates like whole grains, brown rice, quinoa, sweet potatoes, oats, and fruits.
+        \nFats: Healthy fats are calorie-dense and beneficial for overall health. Incorporate sources like avocados, nuts, seeds, olive oil, and fatty fish.</string>
+    <string name="diet_wg_wg3">3) Regular Meals and Snacks: Aim to eat 3 main meals and 2-3 snacks between them throughout the day.\nThis helps increase calorie intake.</string>
+    <string name="diet_wg_wg4">4) Protein-rich Breakfast: Start your day with a protein-rich breakfast.\nIt could be eggs, Greek yogurt with nuts and fruits, or a protein smoothie.</string>
     <string name="diet_wg_wg5">5) Frequent Protein Snacks: Have protein-rich snacks such as nuts, Greek yogurt, cottage cheese, protein bars, or a protein shake between meals.</string>
     <string name="diet_wg_wg6">6) Healthy Fats: Include sources of healthy fats in your meals, like avocados, nuts, seeds, and olive oil.</string>
     <string name="diet_wg_wg7">7) Weight-Gaining Smoothies: Blend together fruits, Greek yogurt, milk, protein powder, and nut butter for a calorie-dense and nutritious smoothie.</string>
     <string name="diet_wg_wg8">8) Starchy Vegetables: Include starchy vegetables like sweet potatoes, peas, corn, and squash in your meals.</string>
     <string name="diet_wg_wg9">9) Strength Training: Combine your diet plan with a proper strength training routine to stimulate muscle growth.</string>
     <string name="diet_wg_wg10">10) Hydration: Stay hydrated throughout the day. Water is crucial for various bodily functions.</string>
-    <string name="diet_wg_wg11">11) Avoid Empty Calories: While it\'s essential to increase calorie intake, avoid relying on sugary and processed foods with empty calories. Focus on nutrient-rich choices.</string>
+    <string name="diet_wg_wg11">11) Avoid Empty Calories: While it\'s essential to increase calorie intake, avoid relying on sugary and processed foods with empty calories.\nFocus on nutrient-rich choices.</string>
     <string name="diet_wg_wg12">12) Rest and Recovery: Ensure you get enough sleep and rest to support muscle recovery and overall well-being.</string>
 
 
-    <string name="diet_wl_wl1">1) Calculate Caloric Needs: Use an online calculator to estimate your daily caloric needs. Then, create a calorie deficit by consuming 300-500 calories less than your daily requirement.</string>
+    <string name="diet_wl_wl1">1) Calculate Caloric Needs: Use an online calculator to estimate your daily caloric needs.\nThen, create a calorie deficit by consuming 300-500 calories less than your daily requirement.</string>
     <string name="diet_wl_wl2">2) Portion Control: Pay attention to portion sizes to avoid overeating. Use smaller plates and bowls to help with portion control.</string>
     <string name="diet_wl_wl3">3) Balanced Macronutrients:
-Proteins: Include lean protein sources like chicken, turkey, fish, tofu, beans, and legumes. Protein helps you feel full and preserves muscle mass during weight loss.
-Complex Carbohydrates: Opt for whole grains, brown rice, quinoa, oats, fruits, and vegetables. These provide sustained energy and fiber, which aids digestion.
-Healthy Fats: Incorporate sources like avocados, nuts, seeds, olive oil, and fatty fish. Healthy fats are essential for various bodily functions.</string>
-    <string name="diet_wl_wl4">4) Vegetables and Fruits: Load up on non-starchy vegetables and fruits, which are low in calories and high in nutrients. They also provide essential vitamins, minerals, and antioxidants.</string>
+\nProteins: Include lean protein sources like chicken, turkey, fish, tofu, beans, and legumes. Protein helps you feel full and preserves muscle mass during weight loss.
+\nComplex Carbohydrates: Opt for whole grains, brown rice, quinoa, oats, fruits, and vegetables. These provide sustained energy and fiber, which aids digestion.
+\nHealthy Fats: Incorporate sources like avocados, nuts, seeds, olive oil, and fatty fish. Healthy fats are essential for various bodily functions.</string>
+    <string name="diet_wl_wl4">4) Vegetables and Fruits: Load up on non-starchy vegetables and fruits, which are low in calories and high in nutrients. \nThey also provide essential vitamins, minerals, and antioxidants.</string>
     <string name="diet_wl_wl5">5) Limit Added Sugars and Processed Foods: Minimize sugary beverages, candies, pastries, and processed snacks, as they are calorie-dense but nutrient-poor.</string>
-    <string name="diet_wl_wl6">6) Regular Meals and Snacks: Don\'t skip meals and aim for 3 main meals and 1-2 healthy snacks per day. Eating regularly helps maintain stable blood sugar levels and prevents overeating.</string>
-    <string name="diet_wl_wl7">7) Hydration: Drink plenty of water throughout the day. Sometimes, thirst can be mistaken for hunger.</string>
-    <string name="diet_wl_wl8">8) Mindful Eating: Pay attention to your hunger and fullness cues. Avoid distractions while eating and savor your meals.</string>
-    <string name="diet_wl_wl9">9) Limit Liquid Calories: Be cautious with high-calorie beverages like sodas, sugary juices, and alcoholic drinks. Opt for water, herbal teas, or flavored water with no added sugars.</string>
+    <string name="diet_wl_wl6">6) Regular Meals and Snacks: Don\'t skip meals and aim for 3 main meals and 1-2 healthy snacks per day. \nEating regularly helps maintain stable blood sugar levels and prevents overeating.</string>
+    <string name="diet_wl_wl7">7) Hydration: Drink plenty of water throughout the day. \nSometimes, thirst can be mistaken for hunger.</string>
+    <string name="diet_wl_wl8">8) Mindful Eating: Pay attention to your hunger and fullness cues. \nAvoid distractions while eating and savor your meals.</string>
+    <string name="diet_wl_wl9">9) Limit Liquid Calories: Be cautious with high-calorie beverages like sodas, sugary juices, and alcoholic drinks.\nOpt for water, herbal teas, or flavored water with no added sugars.</string>
     <string name="diet_wl_wl10">10) Cook at Home: Preparing meals at home allows you to control ingredients and portion sizes better.</string>
-    <string name="diet_wl_wl11">11) Stay Active: Regular physical activity is crucial for weight loss. Incorporate both cardiovascular exercises and strength training into your routine.</string>
+    <string name="diet_wl_wl11">11) Stay Active: Regular physical activity is crucial for weight loss. \nIncorporate both cardiovascular exercises and strength training into your routine.</string>
     <string name="diet_wl_wl12">12) Monitor Progress: Keep track of your food intake and exercise to stay accountable and make adjustments as needed.</string>
     <string name="legs">Legs</string>
 

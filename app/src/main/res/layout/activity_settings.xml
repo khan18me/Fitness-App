@@ -42,8 +42,8 @@
             app:layout_constraintTop_toBottomOf="@id/logoName"
             app:layout_constraintEnd_toStartOf="@+id/logoImage"/>
         <ImageView
-            android:layout_width="130dp"
-            android:layout_height="130dp"
+            android:layout_width="110dp"
+            android:layout_height="160dp"
             android:id="@+id/logoImage"
             android:src="@drawable/settings"
             app:layout_constraintTop_toTopOf="parent"

@@ -40,7 +40,7 @@
                 android:layout_height="30dp"
                 android:layout_alignEnd="@+id/itm_chest_w1"
                 android:layout_marginStart="50dp"
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="70dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -69,7 +69,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_chest_w2"
-                android:layout_marginTop="360dp"
+                android:layout_marginTop="440dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -80,8 +80,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="175dp"
                 android:layout_below="@id/itm_chest_w1"
-                android:layout_marginTop="120dp"
-                android:src="@drawable/itm_chest_w2" />
+                android:layout_marginTop="200dp"
+                android:src="@drawable/beg_chest_w3" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -92,6 +92,7 @@
                 android:textStyle="bold"
                 android:text="@string/itm_chest_w2"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -102,7 +103,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_chest_w3"
-                android:layout_marginTop="660dp"
+                android:layout_marginTop="820dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -112,7 +113,7 @@
                 android:id="@+id/itm_chest_w3"
                 android:layout_height="175dp"
                 android:layout_below="@id/itm_chest_w2"
-                android:layout_marginTop="130dp"
+                android:layout_marginTop="200dp"
                 android:src="@drawable/itm_chest_w3" />
 
 
@@ -127,6 +128,7 @@
                 android:textStyle="bold"
                 android:text="@string/itm_chest_w3"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -136,7 +138,7 @@
                 android:id="@+id/itm_chest_w4"
                 android:layout_height="175dp"
                 android:layout_below="@id/itm_chest_w3"
-                android:layout_marginTop="120dp"
+                android:layout_marginTop="150dp"
                 android:src="@drawable/itm_chest_w4" />
 
             <ImageView
@@ -145,7 +147,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_chest_w4"
-                android:layout_marginTop="960dp"
+                android:layout_marginTop="1140dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -159,6 +161,7 @@
                 android:textStyle="bold"
                 android:text="@string/itm_chest_w4"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -168,7 +171,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_chest_w4"
-                android:layout_marginTop="1255dp"
+                android:layout_marginTop="1510dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -178,8 +181,8 @@
                 android:id="@+id/itm_chest_w5"
                 android:layout_height="175dp"
                 android:layout_below="@id/itm_chest_w4"
-                android:layout_marginTop="130dp"
-                android:src="@drawable/itm_chest_w5" />
+                android:layout_marginTop="200dp"
+                android:src="@drawable/adv_chest_w6" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -191,6 +194,7 @@
                 android:text="@string/itm_chest_w5"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -200,7 +204,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_chest_w5"
-                android:layout_marginTop="1560dp"
+                android:layout_marginTop="1890dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -210,7 +214,7 @@
                 android:id="@+id/itm_chest_w6"
                 android:layout_height="175dp"
                 android:layout_below="@id/itm_chest_w5"
-                android:layout_marginTop="130dp"
+                android:layout_marginTop="200dp"
                 android:src="@drawable/itm_chest_w6" />
 
             <TextView
@@ -223,6 +227,7 @@
                 android:text="@string/itm_chest_w6"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -232,7 +237,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_chest_w6"
-                android:layout_marginTop="1865dp"
+                android:layout_marginTop="2265dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -242,7 +247,7 @@
                 android:id="@+id/itm_chest_w7"
                 android:layout_height="175dp"
                 android:layout_below="@id/itm_chest_w6"
-                android:layout_marginTop="130dp"
+                android:layout_marginTop="200dp"
                 android:src="@drawable/itm_chest_w7" />
 
             <TextView
@@ -255,6 +260,7 @@
                 android:text="@string/itm_chest_w7"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>

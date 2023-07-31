@@ -33,7 +33,7 @@
                 android:layout_below="@+id/chest_header"
                 android:id="@+id/adv_chest_w1"
                 android:layout_height="175dp"
-                android:src="@drawable/adv_chest_w1"/>
+                android:src="@drawable/itm_chest_w1"/>
 
             <ImageView
                 android:id="@+id/vi_chest_w1"
@@ -70,7 +70,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_chest_w2"
-                android:layout_marginTop="400dp"
+                android:layout_marginTop="460dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -81,7 +81,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_chest_w1"
-                android:layout_marginTop="160dp"
+                android:layout_marginTop="210dp"
                 android:src="@drawable/adv_chest_w2" />
 
             <TextView
@@ -93,6 +93,7 @@
                 android:textStyle="bold"
                 android:text="@string/adv_chest_w2"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -103,7 +104,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_chest_w3"
-                android:layout_marginTop="740dp"
+                android:layout_marginTop="790dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -128,6 +129,7 @@
                 android:textStyle="bold"
                 android:text="@string/adv_chest_w3"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -137,8 +139,8 @@
                 android:id="@+id/adv_chest_w4"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_chest_w3"
-                android:layout_marginTop="160dp"
-                android:src="@drawable/adv_chest_w4" />
+                android:layout_marginTop="180dp"
+                android:src="@drawable/itm_chest_w4" />
 
             <ImageView
                 android:id="@+id/vi_chest_w4"
@@ -146,7 +148,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_chest_w4"
-                android:layout_marginTop="1070dp"
+                android:layout_marginTop="1150dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -160,6 +162,7 @@
                 android:textStyle="bold"
                 android:text="@string/adv_chest_w4"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -169,7 +172,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_chest_w4"
-                android:layout_marginTop="1410dp"
+                android:layout_marginTop="1550dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -179,8 +182,8 @@
                 android:id="@+id/adv_chest_w5"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_chest_w4"
-                android:layout_marginTop="160dp"
-                android:src="@drawable/adv_chest_w5" />
+                android:layout_marginTop="220dp"
+                android:src="@drawable/beg_chest_w3" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -192,6 +195,7 @@
                 android:text="@string/adv_chest_w5"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -202,7 +206,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_chest_w5"
-                android:layout_marginTop="1745dp"
+                android:layout_marginTop="1945dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -212,7 +216,7 @@
                 android:id="@+id/adv_chest_w6"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_chest_w5"
-                android:layout_marginTop="160dp"
+                android:layout_marginTop="220dp"
                 android:src="@drawable/adv_chest_w6" />
 
             <TextView
@@ -225,6 +229,7 @@
                 android:text="@string/adv_chest_w6"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>
@@ -235,7 +240,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_chest_w6"
-                android:layout_marginTop="2075dp"
+                android:layout_marginTop="2295dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -245,7 +250,7 @@
                 android:id="@+id/adv_chest_w7"
                 android:layout_height="175dp"
                 android:layout_below="@id/adv_chest_w6"
-                android:layout_marginTop="160dp"
+                android:layout_marginTop="180dp"
                 android:src="@drawable/adv_chest_w7" />
 
             <TextView
@@ -258,6 +263,7 @@
                 android:text="@string/adv_chest_w7"
                 android:paddingBottom="15dp"
                 android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
                 android:layout_marginRight="10dp">
 
             </TextView>

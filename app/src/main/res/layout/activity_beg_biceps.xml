@@ -69,7 +69,7 @@
         android:layout_height="30dp"
         android:layout_marginStart="50dp"
         android:layout_alignEnd="@+id/beg_bic_w2"
-        android:layout_marginTop="330dp"
+        android:layout_marginTop="400dp"
         android:layout_marginEnd="18dp"
         android:layout_marginBottom="50dp"
         android:src="@drawable/play_button" />
@@ -80,7 +80,7 @@
         android:layout_width="match_parent"
         android:layout_height="175dp"
         android:layout_below="@id/beg_bic_w1"
-        android:layout_marginTop="85dp"
+        android:layout_marginTop="150dp"
         android:src="@drawable/dumbell_curl" />
 
     <TextView
@@ -92,6 +92,7 @@
         android:textStyle="bold"
         android:text="@string/beg_bic_w2"
         android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
         android:layout_marginRight="10dp">
 
     </TextView>
@@ -102,7 +103,7 @@
         android:layout_height="30dp"
         android:layout_marginStart="50dp"
         android:layout_alignEnd="@+id/beg_bic_w3"
-        android:layout_marginTop="640dp"
+        android:layout_marginTop="780dp"
         android:layout_marginEnd="18dp"
         android:layout_marginBottom="50dp"
         android:src="@drawable/play_button" />
@@ -112,7 +113,7 @@
         android:id="@+id/beg_bic_w3"
         android:layout_height="175dp"
         android:layout_below="@id/beg_bic_w2"
-        android:layout_marginTop="130dp"
+        android:layout_marginTop="200dp"
         android:src="@drawable/hammer_curl" />
 
 
@@ -127,6 +128,7 @@
         android:textStyle="bold"
         android:text="@string/beg_bic_w3"
         android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
         android:layout_marginRight="10dp">
 
     </TextView>
@@ -136,7 +138,7 @@
         android:id="@+id/beg_bic_w4"
         android:layout_height="175dp"
         android:layout_below="@id/beg_bic_w3"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="180dp"
         android:src="@drawable/concentration_curl" />
 
     <ImageView
@@ -145,7 +147,7 @@
         android:layout_height="30dp"
         android:layout_marginStart="50dp"
         android:layout_alignEnd="@+id/beg_bic_w4"
-        android:layout_marginTop="900dp"
+        android:layout_marginTop="1130dp"
         android:layout_marginEnd="18dp"
         android:layout_marginBottom="50dp"
         android:src="@drawable/play_button" />
@@ -159,6 +161,7 @@
         android:textStyle="bold"
         android:text="@string/beg_bic_w4"
         android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
         android:layout_marginRight="10dp">
 
     </TextView>
@@ -168,7 +171,7 @@
         android:layout_height="30dp"
         android:layout_marginStart="50dp"
         android:layout_alignEnd="@+id/beg_bic_w4"
-        android:layout_marginTop="1225dp"
+        android:layout_marginTop="1505dp"
         android:layout_marginEnd="18dp"
         android:layout_marginBottom="50dp"
         android:src="@drawable/play_button" />
@@ -178,7 +181,7 @@
         android:id="@+id/beg_bic_w5"
         android:layout_height="175dp"
         android:layout_below="@id/beg_bic_w4"
-        android:layout_marginTop="130dp"
+        android:layout_marginTop="210dp"
         android:src="@drawable/rest" />
 
     <TextView
@@ -190,6 +193,7 @@
         android:textStyle="bold"
         android:text="@string/beg_bic_w5"
         android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
         android:layout_marginRight="10dp">
 
     </TextView>
@@ -200,7 +204,7 @@
         android:layout_height="30dp"
         android:layout_marginStart="50dp"
         android:layout_alignEnd="@+id/beg_bic_w5"
-        android:layout_marginTop="1480dp"
+        android:layout_marginTop="1810dp"
         android:layout_marginEnd="18dp"
         android:layout_marginBottom="50dp"
         android:src="@drawable/play_button" />
@@ -210,7 +214,7 @@
         android:id="@+id/beg_bic_w6"
         android:layout_height="175dp"
         android:layout_below="@id/beg_bic_w5"
-        android:layout_marginTop="80dp"
+        android:layout_marginTop="120dp"
         android:src="@drawable/stretch" />
 
     <TextView
@@ -223,6 +227,7 @@
         android:text="@string/beg_bic_w6"
         android:layout_marginBottom="20dp"
         android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
         android:layout_marginRight="10dp">
 
     </TextView>
