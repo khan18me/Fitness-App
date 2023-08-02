@@ -27,7 +27,7 @@ public class itm_biceps extends AppCompatActivity {
             }
         });
 
-        View vi_bicep_w2 = findViewById(R.id.vi_bicep_w1);
+        View vi_bicep_w2 = findViewById(R.id.vi_bicep_w2);
         vi_bicep_w2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -51,7 +51,7 @@ public class itm_biceps extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        View vi_bicep_w4 = findViewById(R.id.vi_bicep_w1);
+        View vi_bicep_w4 = findViewById(R.id.vi_bicep_w4);
         vi_bicep_w4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

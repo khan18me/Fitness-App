@@ -34,6 +34,7 @@
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="150dp"
+                android:id="@+id/beginner"
                 android:background="@drawable/redgradient1">
 
                 <TextView
@@ -45,15 +46,7 @@
                     android:textColor="@color/white"
                     android:textSize="30sp" />
 
-                <Button
-                    android:id="@+id/beg_btn"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_alignParentBottom="true"
-                    android:background="#00000000"
-                    android:padding="20dp"
-                    android:text="@string/expandall"
-                    android:textColor="@color/white" />
+
 
             </RelativeLayout>
 
@@ -72,6 +65,7 @@
             android:layout_width="match_parent"
             android:layout_height="161dp"
             android:layout_marginTop="10dp"
+            android:id="@+id/intermediate"
             android:background="@drawable/redgradient2"
             >
 
@@ -94,18 +88,7 @@
                 android:textColor="@color/white"
                 android:textSize="30sp" />
 
-            <Button
-                android:id="@+id/itm_btn"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentRight="true"
-                android:layout_alignParentBottom="true"
-                android:layout_marginRight="17dp"
-                android:layout_marginBottom="17dp"
-                android:background="#00000000"
-                android:padding="1dp"
-                android:text="@string/expandall"
-                android:textColor="@color/white" />
+
 
         </RelativeLayout>
 
@@ -117,6 +100,7 @@
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="1900dp"
+                android:id="@+id/advance"
                 android:background="@drawable/redgradient1">
 
                 <TextView
@@ -128,15 +112,7 @@
                     android:textColor="@color/white"
                     android:textSize="30sp" />
 
-                <Button
-                    android:id="@+id/adv_btn"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_alignParentBottom="true"
-                    android:background="#00000000"
-                    android:padding="20dp"
-                    android:text="@string/expandall"
-                    android:textColor="@color/white" />
+
 
             </RelativeLayout>
 

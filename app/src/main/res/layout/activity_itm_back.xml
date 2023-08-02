@@ -40,7 +40,7 @@
                 android:layout_height="30dp"
                 android:layout_alignEnd="@+id/itm_back_w1"
                 android:layout_marginStart="50dp"
-                android:layout_marginTop="70dp"
+                android:layout_marginTop="50dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -69,7 +69,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_back_w2"
-                android:layout_marginTop="460dp"
+                android:layout_marginTop="440dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -103,7 +103,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_back_w3"
-                android:layout_marginTop="820dp"
+                android:layout_marginTop="800dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -147,7 +147,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_back_w4"
-                android:layout_marginTop="1190dp"
+                android:layout_marginTop="1180dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -171,7 +171,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_back_w4"
-                android:layout_marginTop="1555dp"
+                android:layout_marginTop="1545dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -205,7 +205,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/itm_back_w5"
-                android:layout_marginTop="1930dp"
+                android:layout_marginTop="1920dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />

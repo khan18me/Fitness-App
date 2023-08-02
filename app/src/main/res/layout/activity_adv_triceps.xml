@@ -40,7 +40,7 @@
                 android:layout_height="30dp"
                 android:layout_alignEnd="@+id/adv_tricep_w1"
                 android:layout_marginStart="50dp"
-                android:layout_marginTop="70dp"
+                android:layout_marginTop="50dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -69,7 +69,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w2"
-                android:layout_marginTop="450dp"
+                android:layout_marginTop="430dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -103,7 +103,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w3"
-                android:layout_marginTop="830dp"
+                android:layout_marginTop="800dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -147,7 +147,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w4"
-                android:layout_marginTop="1200dp"
+                android:layout_marginTop="1180dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -171,7 +171,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w4"
-                android:layout_marginTop="1580dp"
+                android:layout_marginTop="1550dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -205,7 +205,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w5"
-                android:layout_marginTop="1945dp"
+                android:layout_marginTop="1925dp"
                 android:layout_marginEnd="4dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -238,7 +238,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/adv_tricep_w6"
-                android:layout_marginTop="2330dp"
+                android:layout_marginTop="2310dp"
 
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />

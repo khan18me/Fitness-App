@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.RelativeLayout;
 
 public class levels extends AppCompatActivity {
 
@@ -15,36 +16,34 @@ public class levels extends AppCompatActivity {
         setContentView(R.layout.activity_levels);
 
 
-        final Button beg_btn = (Button) findViewById(R.id.beg_btn);
-        beg_btn.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout relativeLayout1 = findViewById(R.id.beginner);
+        relativeLayout1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(), beginner.class);
-                startActivity(i);
-
+                Intent intent = new Intent(levels.this, beginner.class);
+                startActivity(intent);
 
             }
         });
-        final Button itm_btn = (Button) findViewById(R.id.itm_btn);
-        itm_btn.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout relativeLayout2 = findViewById(R.id.intermediate);
+        relativeLayout2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),intermediate.class);
-                startActivity(i);
-
+                Intent intent = new Intent(levels.this, intermediate.class);
+                startActivity(intent);
 
             }
         });
-        final Button adv_btn = (Button) findViewById(R.id.adv_btn);
-        adv_btn.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout relativeLayout3 = findViewById(R.id.advance);
+        relativeLayout3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),advance.class);
-                startActivity(i);
-
+                Intent intent = new Intent(levels.this, advance.class);
+                startActivity(intent);
 
             }
         });
+
 
     }
 }

@@ -27,14 +27,14 @@ public class beg_biceps extends AppCompatActivity {
             }
         });
 
-        View vi_bic_w2 = findViewById(R.id.vi_bic_w1);
+        View vi_bic_w2 = findViewById(R.id.vi_bic_w2);
         vi_bic_w2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 beg_bic_workout2();
             }
             private void beg_bic_workout2() {
-                String v2_beg_bic_workout2 = "https://youtu.be/ykJmrZ5v0Oo";
+                String v2_beg_bic_workout2 = "https://www.youtube.com/watch?v=ykJmrZ5v0Oo";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v2_beg_bic_workout2));
                 startActivity(intent);
             }
@@ -46,19 +46,19 @@ public class beg_biceps extends AppCompatActivity {
                 beg_bic_workout3();
             }
             private void beg_bic_workout3() {
-                String v3_beg_bic_workout3 = "hhttps://youtu.be/TwD-YGVP4Bk";
+                String v3_beg_bic_workout3 = "https://www.youtube.com/watch?v=TwD-YGVP4Bk";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v3_beg_bic_workout3));
                 startActivity(intent);
             }
         });
-        View vi_bic_w4 = findViewById(R.id.vi_bic_w1);
+        View vi_bic_w4 = findViewById(R.id.vi_bic_w4);
         vi_bic_w4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 beg_bic_workout4();
             }
             private void beg_bic_workout4() {
-                String v4_beg_bic_workout4 = "https://youtu.be/0AUGkch3tzc";
+                String v4_beg_bic_workout4 = "https://www.youtube.com/watch?v=0AUGkch3tzc";
                 Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(v4_beg_bic_workout4));
                 startActivity(intent);
             }

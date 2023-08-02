@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.RelativeLayout;
 
 public class advance extends AppCompatActivity {
 
@@ -14,73 +15,69 @@ public class advance extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_advance);
 
-        final Button adv_bicep_btn = (Button) findViewById(R.id.adv_bicep_btn);
-        adv_bicep_btn.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout relativeLayout1 = findViewById(R.id.adv_bicep_btn);
+        relativeLayout1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(), adv_biceps.class);
-                startActivity(i);
-            }
-        });
-        final Button adv_tri_btn = (Button) findViewById(R.id.adv_tri_btn);
-        adv_tri_btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),adv_triceps.class);
-                startActivity(i);
-
+                Intent intent = new Intent(advance.this, adv_biceps.class);
+                startActivity(intent);
 
             }
         });
-        final Button adv_chest_btn = (Button) findViewById(R.id.adv_chest_btn);
-        adv_chest_btn.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout relativeLayout2 = findViewById(R.id.adv_tricep_btn);
+        relativeLayout2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),adv_chest.class);
-                startActivity(i);
-
+                Intent intent = new Intent(advance.this, adv_triceps.class);
+                startActivity(intent);
 
             }
         });
-        final Button adv_back_btn = (Button) findViewById(R.id.adv_back_btn);
-        adv_back_btn.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout relativeLayout3 = findViewById(R.id.adv_chest_btn);
+        relativeLayout3.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),adv_back.class);
-                startActivity(i);
-
+                Intent intent = new Intent(advance.this, adv_chest.class);
+                startActivity(intent);
 
             }
         });
-        final Button adv_shldr_btn = (Button) findViewById(R.id.adv_shldr_btn);
-        adv_shldr_btn.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout relativeLayout4 = findViewById(R.id.adv_back_btn);
+        relativeLayout4.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),adv_shoulder.class);
-                startActivity(i);
-
+                Intent intent = new Intent(advance.this, adv_back.class);
+                startActivity(intent);
 
             }
         });
-        final Button adv_abs_btn = (Button) findViewById(R.id.adv_abs_btn);
-        adv_abs_btn.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout relativeLayout5 = findViewById(R.id.adv_shoulder_btn);
+        relativeLayout5.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),adv_abs.class);
-                startActivity(i);
-
+                Intent intent = new Intent(advance.this, adv_shoulder.class);
+                startActivity(intent);
 
             }
         });
-        final Button adv_legs_btn = (Button) findViewById(R.id.adv_legs_btn);
-        adv_legs_btn.setOnClickListener(new View.OnClickListener() {
+        RelativeLayout relativeLayout6 = findViewById(R.id.adv_abs_btn);
+        relativeLayout6.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent i = new Intent(getApplicationContext(),adv_legs.class);
-                startActivity(i);
-
+                Intent intent = new Intent(advance.this, adv_abs.class);
+                startActivity(intent);
 
             }
         });
+        RelativeLayout relativeLayout7 = findViewById(R.id.adv_legs_btn);
+        relativeLayout7.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(advance.this, adv_legs.class);
+                startActivity(intent);
+
+            }
+        });
+
     }
 }

@@ -63,16 +63,7 @@
     </TextView>
 
 
-    <ImageView
-        android:id="@+id/vi_bic_w2"
-        android:layout_width="30dp"
-        android:layout_height="30dp"
-        android:layout_marginStart="50dp"
-        android:layout_alignEnd="@+id/beg_bic_w2"
-        android:layout_marginTop="400dp"
-        android:layout_marginEnd="18dp"
-        android:layout_marginBottom="50dp"
-        android:src="@drawable/play_button" />
+
 
 
     <pl.droidsonroids.gif.GifImageView
@@ -96,17 +87,18 @@
         android:layout_marginRight="10dp">
 
     </TextView>
-
     <ImageView
-        android:id="@+id/vi_bic_w3"
+        android:id="@+id/vi_bic_w2"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_marginStart="50dp"
-        android:layout_alignEnd="@+id/beg_bic_w3"
-        android:layout_marginTop="780dp"
+        android:layout_alignEnd="@+id/beg_bic_w2"
+        android:layout_marginTop="375dp"
         android:layout_marginEnd="18dp"
         android:layout_marginBottom="50dp"
         android:src="@drawable/play_button" />
+
+
 
     <pl.droidsonroids.gif.GifImageView
         android:layout_width="match_parent"
@@ -132,6 +124,16 @@
         android:layout_marginRight="10dp">
 
     </TextView>
+    <ImageView
+        android:id="@+id/vi_bic_w3"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_alignEnd="@+id/beg_bic_w3"
+        android:layout_marginTop="750dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/play_button" />
 
     <pl.droidsonroids.gif.GifImageView
         android:layout_width="match_parent"
@@ -141,16 +143,7 @@
         android:layout_marginTop="180dp"
         android:src="@drawable/concentration_curl" />
 
-    <ImageView
-        android:id="@+id/vi_bic_w4"
-        android:layout_width="30dp"
-        android:layout_height="30dp"
-        android:layout_marginStart="50dp"
-        android:layout_alignEnd="@+id/beg_bic_w4"
-        android:layout_marginTop="1130dp"
-        android:layout_marginEnd="18dp"
-        android:layout_marginBottom="50dp"
-        android:src="@drawable/play_button" />
+
 
     <TextView
         android:layout_width="match_parent"
@@ -165,13 +158,26 @@
         android:layout_marginRight="10dp">
 
     </TextView>
+
+    <ImageView
+        android:id="@+id/vi_bic_w4"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_alignEnd="@+id/beg_bic_w4"
+        android:layout_marginTop="1110dp"
+        android:layout_marginEnd="18dp"
+        android:layout_marginBottom="50dp"
+        android:src="@drawable/play_button" />
+
+
     <ImageView
         android:id="@+id/vi_bic_w5"
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_marginStart="50dp"
         android:layout_alignEnd="@+id/beg_bic_w4"
-        android:layout_marginTop="1505dp"
+        android:layout_marginTop="1495dp"
         android:layout_marginEnd="18dp"
         android:layout_marginBottom="50dp"
         android:src="@drawable/play_button" />
@@ -204,7 +210,7 @@
         android:layout_height="30dp"
         android:layout_marginStart="50dp"
         android:layout_alignEnd="@+id/beg_bic_w5"
-        android:layout_marginTop="1810dp"
+        android:layout_marginTop="1790dp"
         android:layout_marginEnd="18dp"
         android:layout_marginBottom="50dp"
         android:src="@drawable/play_button" />

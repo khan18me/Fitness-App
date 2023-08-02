@@ -40,7 +40,7 @@
                 android:layout_height="30dp"
                 android:layout_alignEnd="@+id/beg_tricep_w1"
                 android:layout_marginStart="50dp"
-                android:layout_marginTop="70dp"
+                android:layout_marginTop="50dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -69,7 +69,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_tricep_w2"
-                android:layout_marginTop="430dp"
+                android:layout_marginTop="410dp"
 
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -104,7 +104,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_tricep_w3"
-                android:layout_marginTop="800dp"
+                android:layout_marginTop="780dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -148,7 +148,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_tricep_w4"
-                android:layout_marginTop="1180dp"
+                android:layout_marginTop="1160dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />
@@ -172,7 +172,7 @@
                 android:layout_height="30dp"
                 android:layout_marginStart="50dp"
                 android:layout_alignEnd="@+id/beg_tricep_w4"
-                android:layout_marginTop="1545dp"
+                android:layout_marginTop="1530dp"
                 android:layout_marginEnd="18dp"
                 android:layout_marginBottom="50dp"
                 android:src="@drawable/play_button" />

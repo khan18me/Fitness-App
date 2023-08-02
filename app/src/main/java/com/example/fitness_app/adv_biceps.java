@@ -27,7 +27,7 @@ public class adv_biceps extends AppCompatActivity {
             }
         });
 
-        View vi_bic_w2 = findViewById(R.id.vi_bic_w1);
+        View vi_bic_w2 = findViewById(R.id.vi_bic_w2);
         vi_bic_w2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

@@ -6,14 +6,18 @@ import androidx.cardview.widget.CardView;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.RelativeLayout;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
     CardView exercise;
+    private static final String PACKAGE_NAME_ANOTHER_APP = "com.fitnessfreak.onlinemusicplayer"; // Replace with the package name of the other app
+    private static final String GOOGLE_DRIVE_DOWNLOAD_URL = "https://drive.google.com/file/d/1L0YhuKk_UumWswCEheCiTCdMBGid-ce5/view?usp=drive_link"; // Replace with the Google Drive download link
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -73,9 +77,36 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        RelativeLayout relativeLayout6 = findViewById(R.id.music);
+        relativeLayout6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                openMusicApp();
+            }
+        });
+
 
 
     }
+
+    private void openMusicApp() {
+
+        PackageManager pm = getPackageManager();
+        Intent intent = pm.getLaunchIntentForPackage(PACKAGE_NAME_ANOTHER_APP);
+
+        if (intent != null) {
+            // The app exists on the device, so start the activity
+            startActivity(intent);
+        } else {
+            // The app is not installed, so show the Google Drive download link in a web browser
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(GOOGLE_DRIVE_DOWNLOAD_URL));
+            startActivity(browserIntent);
+        }
+
+    }
+
+
+
     public void onBackPressed() {
         boolean isMainActivity=true;
         if (isMainActivity) {
